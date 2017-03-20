@@ -4595,6 +4595,29 @@
     </image:image>
   </url>
   <url>
+    <loc>http://akashi-list.me/#w203</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon203.png</image:loc>
+      <image:caption>艦本新設計増設バルジ(中型艦)</image:caption>
+      <image:title>艦本新設計増設バルジ(中型艦)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon203_0.png</image:loc>
+      <image:caption>艦本新設計増設バルジ(中型艦) 画像</image:caption>
+      <image:title>艦本新設計増設バルジ(中型艦) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon203_1.png</image:loc>
+      <image:caption>艦本新設計増設バルジ(中型艦) 画像と妖精</image:caption>
+      <image:title>艦本新設計増設バルジ(中型艦) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon203_2.png</image:loc>
+      <image:caption>艦本新設計増設バルジ(中型艦) 妖精</image:caption>
+      <image:title>艦本新設計増設バルジ(中型艦) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>http://akashi-list.me/#w204</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon204.png</image:loc>
@@ -4615,6 +4638,259 @@
       <image:loc>http://akashi-list.me/img/weapon204_2.png</image:loc>
       <image:caption>艦本新設計増設バルジ(大型艦) 妖精</image:caption>
       <image:title>艦本新設計増設バルジ(大型艦) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w205</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon205.png</image:loc>
+      <image:caption>F6F-3</image:caption>
+      <image:title>F6F-3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon205_0.png</image:loc>
+      <image:caption>F6F-3 画像</image:caption>
+      <image:title>F6F-3 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon205_1.png</image:loc>
+      <image:caption>F6F-3 画像と妖精</image:caption>
+      <image:title>F6F-3 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon205_2.png</image:loc>
+      <image:caption>F6F-3 妖精</image:caption>
+      <image:title>F6F-3 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w207</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon207.png</image:loc>
+      <image:caption>瑞雲(六三一空)</image:caption>
+      <image:title>瑞雲(六三一空)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon207_0.png</image:loc>
+      <image:caption>瑞雲(六三一空) 画像</image:caption>
+      <image:title>瑞雲(六三一空) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon207_1.png</image:loc>
+      <image:caption>瑞雲(六三一空) 画像と妖精</image:caption>
+      <image:title>瑞雲(六三一空) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon207_2.png</image:loc>
+      <image:caption>瑞雲(六三一空) 妖精</image:caption>
+      <image:title>瑞雲(六三一空) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w208</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon208.png</image:loc>
+      <image:caption>晴嵐(六三一空)</image:caption>
+      <image:title>晴嵐(六三一空)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon208_0.png</image:loc>
+      <image:caption>晴嵐(六三一空) 画像</image:caption>
+      <image:title>晴嵐(六三一空) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon208_1.png</image:loc>
+      <image:caption>晴嵐(六三一空) 画像と妖精</image:caption>
+      <image:title>晴嵐(六三一空) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon208_2.png</image:loc>
+      <image:caption>晴嵐(六三一空) 妖精</image:caption>
+      <image:title>晴嵐(六三一空) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w209</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon209.png</image:loc>
+      <image:caption>彩雲(輸送用分解済)</image:caption>
+      <image:title>彩雲(輸送用分解済)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon209_0.png</image:loc>
+      <image:caption>彩雲(輸送用分解済) 画像</image:caption>
+      <image:title>彩雲(輸送用分解済) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon209_1.png</image:loc>
+      <image:caption>彩雲(輸送用分解済) 画像と妖精</image:caption>
+      <image:title>彩雲(輸送用分解済) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon209_2.png</image:loc>
+      <image:caption>彩雲(輸送用分解済) 妖精</image:caption>
+      <image:title>彩雲(輸送用分解済) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w210</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon210.png</image:loc>
+      <image:caption>潜水艦搭載電探＆水防式望遠鏡</image:caption>
+      <image:title>潜水艦搭載電探＆水防式望遠鏡</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon210_0.png</image:loc>
+      <image:caption>潜水艦搭載電探＆水防式望遠鏡 画像</image:caption>
+      <image:title>潜水艦搭載電探＆水防式望遠鏡 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon210_1.png</image:loc>
+      <image:caption>潜水艦搭載電探＆水防式望遠鏡 画像と妖精</image:caption>
+      <image:title>潜水艦搭載電探＆水防式望遠鏡 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon210_2.png</image:loc>
+      <image:caption>潜水艦搭載電探＆水防式望遠鏡 妖精</image:caption>
+      <image:title>潜水艦搭載電探＆水防式望遠鏡 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w211</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon211.png</image:loc>
+      <image:caption>潜水艦搭載電探＆逆探(E27)</image:caption>
+      <image:title>潜水艦搭載電探＆逆探(E27)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon211_0.png</image:loc>
+      <image:caption>潜水艦搭載電探＆逆探(E27) 画像</image:caption>
+      <image:title>潜水艦搭載電探＆逆探(E27) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon211_1.png</image:loc>
+      <image:caption>潜水艦搭載電探＆逆探(E27) 画像と妖精</image:caption>
+      <image:title>潜水艦搭載電探＆逆探(E27) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon211_2.png</image:loc>
+      <image:caption>潜水艦搭載電探＆逆探(E27) 妖精</image:caption>
+      <image:title>潜水艦搭載電探＆逆探(E27) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w212</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon212.png</image:loc>
+      <image:caption>彩雲(東カロリン空)</image:caption>
+      <image:title>彩雲(東カロリン空)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon212_0.png</image:loc>
+      <image:caption>彩雲(東カロリン空) 画像</image:caption>
+      <image:title>彩雲(東カロリン空) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon212_1.png</image:loc>
+      <image:caption>彩雲(東カロリン空) 画像と妖精</image:caption>
+      <image:title>彩雲(東カロリン空) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon212_2.png</image:loc>
+      <image:caption>彩雲(東カロリン空) 妖精</image:caption>
+      <image:title>彩雲(東カロリン空) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w213</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon213.png</image:loc>
+      <image:caption>後期型艦首魚雷(6門)</image:caption>
+      <image:title>後期型艦首魚雷(6門)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon213_0.png</image:loc>
+      <image:caption>後期型艦首魚雷(6門) 画像</image:caption>
+      <image:title>後期型艦首魚雷(6門) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon213_1.png</image:loc>
+      <image:caption>後期型艦首魚雷(6門) 画像と妖精</image:caption>
+      <image:title>後期型艦首魚雷(6門) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon213_2.png</image:loc>
+      <image:caption>後期型艦首魚雷(6門) 妖精</image:caption>
+      <image:title>後期型艦首魚雷(6門) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w214</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon214.png</image:loc>
+      <image:caption>熟練聴音員＋後期型艦首魚雷(6門)</image:caption>
+      <image:title>熟練聴音員＋後期型艦首魚雷(6門)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon214_0.png</image:loc>
+      <image:caption>熟練聴音員＋後期型艦首魚雷(6門) 画像</image:caption>
+      <image:title>熟練聴音員＋後期型艦首魚雷(6門) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon214_1.png</image:loc>
+      <image:caption>熟練聴音員＋後期型艦首魚雷(6門) 画像と妖精</image:caption>
+      <image:title>熟練聴音員＋後期型艦首魚雷(6門) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon214_2.png</image:loc>
+      <image:caption>熟練聴音員＋後期型艦首魚雷(6門) 妖精</image:caption>
+      <image:title>熟練聴音員＋後期型艦首魚雷(6門) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w215</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon215.png</image:loc>
+      <image:caption>Ro.44水上戦闘機bis</image:caption>
+      <image:title>Ro.44水上戦闘機bis</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon215_0.png</image:loc>
+      <image:caption>Ro.44水上戦闘機bis 画像</image:caption>
+      <image:title>Ro.44水上戦闘機bis 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon215_1.png</image:loc>
+      <image:caption>Ro.44水上戦闘機bis 画像と妖精</image:caption>
+      <image:title>Ro.44水上戦闘機bis 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon215_2.png</image:loc>
+      <image:caption>Ro.44水上戦闘機bis 妖精</image:caption>
+      <image:title>Ro.44水上戦闘機bis 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w216</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon216.png</image:loc>
+      <image:caption>二式水戦改(熟練)</image:caption>
+      <image:title>二式水戦改(熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon216_0.png</image:loc>
+      <image:caption>二式水戦改(熟練) 画像</image:caption>
+      <image:title>二式水戦改(熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon216_1.png</image:loc>
+      <image:caption>二式水戦改(熟練) 画像と妖精</image:caption>
+      <image:title>二式水戦改(熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon216_2.png</image:loc>
+      <image:caption>二式水戦改(熟練) 妖精</image:caption>
+      <image:title>二式水戦改(熟練) 妖精</image:title>
     </image:image>
   </url>
 </urlset>
