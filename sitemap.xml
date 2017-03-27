@@ -4893,4 +4893,50 @@
       <image:title>二式水戦改(熟練) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>http://akashi-list.me/#w217</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon217.png</image:loc>
+      <image:caption>強風改</image:caption>
+      <image:title>強風改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon217_0.png</image:loc>
+      <image:caption>強風改 画像</image:caption>
+      <image:title>強風改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon217_1.png</image:loc>
+      <image:caption>強風改 画像と妖精</image:caption>
+      <image:title>強風改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon217_2.png</image:loc>
+      <image:caption>強風改 妖精</image:caption>
+      <image:title>強風改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#w219</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon219.png</image:loc>
+      <image:caption>零式艦戦63型(爆戦)</image:caption>
+      <image:title>零式艦戦63型(爆戦)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon219_0.png</image:loc>
+      <image:caption>零式艦戦63型(爆戦) 画像</image:caption>
+      <image:title>零式艦戦63型(爆戦) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon219_1.png</image:loc>
+      <image:caption>零式艦戦63型(爆戦) 画像と妖精</image:caption>
+      <image:title>零式艦戦63型(爆戦) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon219_2.png</image:loc>
+      <image:caption>零式艦戦63型(爆戦) 妖精</image:caption>
+      <image:title>零式艦戦63型(爆戦) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
