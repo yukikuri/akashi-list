@@ -4939,4 +4939,27 @@
       <image:title>零式艦戦63型(爆戦) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>http://akashi-list.me/#w220</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon220.png</image:loc>
+      <image:caption>8cm高角砲改＋増設機銃</image:caption>
+      <image:title>8cm高角砲改＋増設機銃</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon220_0.png</image:loc>
+      <image:caption>8cm高角砲改＋増設機銃 画像</image:caption>
+      <image:title>8cm高角砲改＋増設機銃 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon220_1.png</image:loc>
+      <image:caption>8cm高角砲改＋増設機銃 画像と妖精</image:caption>
+      <image:title>8cm高角砲改＋増設機銃 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon220_2.png</image:loc>
+      <image:caption>8cm高角砲改＋増設機銃 妖精</image:caption>
+      <image:title>8cm高角砲改＋増設機銃 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
