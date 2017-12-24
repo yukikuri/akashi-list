@@ -5,7 +5,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w001</loc>
+    <loc>http://akashi-list.me/redirect/w001.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon001.png</image:loc>
       <image:caption>12cm単装砲</image:caption>
@@ -28,7 +28,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w002</loc>
+    <loc>http://akashi-list.me/redirect/w002.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon002.png</image:loc>
       <image:caption>12.7cm連装砲</image:caption>
@@ -51,7 +51,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w003</loc>
+    <loc>http://akashi-list.me/redirect/w003.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon003.png</image:loc>
       <image:caption>10cm連装高角砲</image:caption>
@@ -74,7 +74,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w004</loc>
+    <loc>http://akashi-list.me/redirect/w004.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon004.png</image:loc>
       <image:caption>14cm単装砲</image:caption>
@@ -97,7 +97,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w005</loc>
+    <loc>http://akashi-list.me/redirect/w005.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon005.png</image:loc>
       <image:caption>15.5cm三連装砲</image:caption>
@@ -120,7 +120,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w006</loc>
+    <loc>http://akashi-list.me/redirect/w006.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon006.png</image:loc>
       <image:caption>20.3cm連装砲</image:caption>
@@ -143,7 +143,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w007</loc>
+    <loc>http://akashi-list.me/redirect/w007.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon007.png</image:loc>
       <image:caption>35.6cm連装砲</image:caption>
@@ -166,7 +166,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w008</loc>
+    <loc>http://akashi-list.me/redirect/w008.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon008.png</image:loc>
       <image:caption>41cm連装砲</image:caption>
@@ -189,7 +189,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w009</loc>
+    <loc>http://akashi-list.me/redirect/w009.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon009.png</image:loc>
       <image:caption>46cm三連装砲</image:caption>
@@ -212,7 +212,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w010</loc>
+    <loc>http://akashi-list.me/redirect/w010.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon010.png</image:loc>
       <image:caption>12.7cm連装高角砲</image:caption>
@@ -235,7 +235,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w011</loc>
+    <loc>http://akashi-list.me/redirect/w011.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon011.png</image:loc>
       <image:caption>15.2cm単装砲</image:caption>
@@ -258,7 +258,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w012</loc>
+    <loc>http://akashi-list.me/redirect/w012.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon012.png</image:loc>
       <image:caption>15.5cm三連装副砲</image:caption>
@@ -281,7 +281,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w013</loc>
+    <loc>http://akashi-list.me/redirect/w013.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon013.png</image:loc>
       <image:caption>61cm三連装魚雷</image:caption>
@@ -304,7 +304,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w014</loc>
+    <loc>http://akashi-list.me/redirect/w014.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon014.png</image:loc>
       <image:caption>61cm四連装魚雷</image:caption>
@@ -327,7 +327,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w015</loc>
+    <loc>http://akashi-list.me/redirect/w015.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon015.png</image:loc>
       <image:caption>61cm四連装(酸素)魚雷</image:caption>
@@ -350,7 +350,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w016</loc>
+    <loc>http://akashi-list.me/redirect/w016.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon016.png</image:loc>
       <image:caption>九七式艦攻</image:caption>
@@ -373,7 +373,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w017</loc>
+    <loc>http://akashi-list.me/redirect/w017.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon017.png</image:loc>
       <image:caption>天山</image:caption>
@@ -396,7 +396,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w018</loc>
+    <loc>http://akashi-list.me/redirect/w018.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon018.png</image:loc>
       <image:caption>流星</image:caption>
@@ -419,7 +419,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w019</loc>
+    <loc>http://akashi-list.me/redirect/w019.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon019.png</image:loc>
       <image:caption>九六式艦戦</image:caption>
@@ -442,7 +442,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w020</loc>
+    <loc>http://akashi-list.me/redirect/w020.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon020.png</image:loc>
       <image:caption>零式艦戦21型</image:caption>
@@ -465,7 +465,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w021</loc>
+    <loc>http://akashi-list.me/redirect/w021.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon021.png</image:loc>
       <image:caption>零式艦戦52型</image:caption>
@@ -488,7 +488,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w022</loc>
+    <loc>http://akashi-list.me/redirect/w022.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon022.png</image:loc>
       <image:caption>烈風</image:caption>
@@ -511,7 +511,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w023</loc>
+    <loc>http://akashi-list.me/redirect/w023.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon023.png</image:loc>
       <image:caption>九九式艦爆</image:caption>
@@ -534,7 +534,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w024</loc>
+    <loc>http://akashi-list.me/redirect/w024.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon024.png</image:loc>
       <image:caption>彗星</image:caption>
@@ -557,7 +557,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w025</loc>
+    <loc>http://akashi-list.me/redirect/w025.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon025.png</image:loc>
       <image:caption>零式水上偵察機</image:caption>
@@ -580,7 +580,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w026</loc>
+    <loc>http://akashi-list.me/redirect/w026.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon026.png</image:loc>
       <image:caption>瑞雲</image:caption>
@@ -603,7 +603,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w027</loc>
+    <loc>http://akashi-list.me/redirect/w027.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon027.png</image:loc>
       <image:caption>13号対空電探</image:caption>
@@ -626,7 +626,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w028</loc>
+    <loc>http://akashi-list.me/redirect/w028.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon028.png</image:loc>
       <image:caption>22号対水上電探</image:caption>
@@ -649,7 +649,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w029</loc>
+    <loc>http://akashi-list.me/redirect/w029.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon029.png</image:loc>
       <image:caption>33号対水上電探</image:caption>
@@ -672,7 +672,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w030</loc>
+    <loc>http://akashi-list.me/redirect/w030.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon030.png</image:loc>
       <image:caption>21号対空電探</image:caption>
@@ -695,7 +695,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w031</loc>
+    <loc>http://akashi-list.me/redirect/w031.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon031.png</image:loc>
       <image:caption>32号対水上電探</image:caption>
@@ -718,7 +718,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w032</loc>
+    <loc>http://akashi-list.me/redirect/w032.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon032.png</image:loc>
       <image:caption>14号対空電探</image:caption>
@@ -741,7 +741,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w033</loc>
+    <loc>http://akashi-list.me/redirect/w033.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon033.png</image:loc>
       <image:caption>改良型艦本式タービン</image:caption>
@@ -764,7 +764,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w034</loc>
+    <loc>http://akashi-list.me/redirect/w034.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon034.png</image:loc>
       <image:caption>強化型艦本式缶</image:caption>
@@ -787,7 +787,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w035</loc>
+    <loc>http://akashi-list.me/redirect/w035.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon035.png</image:loc>
       <image:caption>三式弾</image:caption>
@@ -810,7 +810,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w036</loc>
+    <loc>http://akashi-list.me/redirect/w036.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon036.png</image:loc>
       <image:caption>九一式徹甲弾</image:caption>
@@ -833,7 +833,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w037</loc>
+    <loc>http://akashi-list.me/redirect/w037.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon037.png</image:loc>
       <image:caption>7.7mm機銃</image:caption>
@@ -856,7 +856,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w038</loc>
+    <loc>http://akashi-list.me/redirect/w038.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon038.png</image:loc>
       <image:caption>12.7mm単装機銃</image:caption>
@@ -879,7 +879,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w039</loc>
+    <loc>http://akashi-list.me/redirect/w039.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon039.png</image:loc>
       <image:caption>25mm連装機銃</image:caption>
@@ -902,7 +902,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w040</loc>
+    <loc>http://akashi-list.me/redirect/w040.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon040.png</image:loc>
       <image:caption>25mm三連装機銃</image:caption>
@@ -925,7 +925,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w041</loc>
+    <loc>http://akashi-list.me/redirect/w041.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon041.png</image:loc>
       <image:caption>甲標的甲</image:caption>
@@ -948,7 +948,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w042</loc>
+    <loc>http://akashi-list.me/redirect/w042.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon042.png</image:loc>
       <image:caption>応急修理要員</image:caption>
@@ -961,7 +961,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w043</loc>
+    <loc>http://akashi-list.me/redirect/w043.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon043.png</image:loc>
       <image:caption>応急修理女神</image:caption>
@@ -984,7 +984,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w044</loc>
+    <loc>http://akashi-list.me/redirect/w044.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon044.png</image:loc>
       <image:caption>九四式爆雷投射機</image:caption>
@@ -1007,7 +1007,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w045</loc>
+    <loc>http://akashi-list.me/redirect/w045.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon045.png</image:loc>
       <image:caption>三式爆雷投射機</image:caption>
@@ -1030,7 +1030,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w046</loc>
+    <loc>http://akashi-list.me/redirect/w046.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon046.png</image:loc>
       <image:caption>九三式水中聴音機</image:caption>
@@ -1053,7 +1053,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w047</loc>
+    <loc>http://akashi-list.me/redirect/w047.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon047.png</image:loc>
       <image:caption>三式水中探信儀</image:caption>
@@ -1076,7 +1076,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w048</loc>
+    <loc>http://akashi-list.me/redirect/w048.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon048.png</image:loc>
       <image:caption>12.7cm単装高角砲</image:caption>
@@ -1099,7 +1099,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w049</loc>
+    <loc>http://akashi-list.me/redirect/w049.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon049.png</image:loc>
       <image:caption>25mm単装機銃</image:caption>
@@ -1122,7 +1122,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w050</loc>
+    <loc>http://akashi-list.me/redirect/w050.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon050.png</image:loc>
       <image:caption>20.3cm(3号)連装砲</image:caption>
@@ -1145,7 +1145,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w051</loc>
+    <loc>http://akashi-list.me/redirect/w051.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon051.png</image:loc>
       <image:caption>12cm30連装噴進砲</image:caption>
@@ -1168,7 +1168,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w052</loc>
+    <loc>http://akashi-list.me/redirect/w052.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon052.png</image:loc>
       <image:caption>流星改</image:caption>
@@ -1191,7 +1191,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w053</loc>
+    <loc>http://akashi-list.me/redirect/w053.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon053.png</image:loc>
       <image:caption>烈風改</image:caption>
@@ -1214,7 +1214,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w054</loc>
+    <loc>http://akashi-list.me/redirect/w054.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon054.png</image:loc>
       <image:caption>彩雲</image:caption>
@@ -1237,7 +1237,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w055</loc>
+    <loc>http://akashi-list.me/redirect/w055.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon055.png</image:loc>
       <image:caption>紫電改二</image:caption>
@@ -1260,7 +1260,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w056</loc>
+    <loc>http://akashi-list.me/redirect/w056.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon056.png</image:loc>
       <image:caption>震電改</image:caption>
@@ -1283,7 +1283,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w057</loc>
+    <loc>http://akashi-list.me/redirect/w057.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon057.png</image:loc>
       <image:caption>彗星一二型甲</image:caption>
@@ -1306,7 +1306,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w058</loc>
+    <loc>http://akashi-list.me/redirect/w058.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon058.png</image:loc>
       <image:caption>61cm五連装(酸素)魚雷</image:caption>
@@ -1329,7 +1329,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w059</loc>
+    <loc>http://akashi-list.me/redirect/w059.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon059.png</image:loc>
       <image:caption>零式水上観測機</image:caption>
@@ -1352,7 +1352,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w060</loc>
+    <loc>http://akashi-list.me/redirect/w060.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon060.png</image:loc>
       <image:caption>零式艦戦62型(爆戦)</image:caption>
@@ -1375,7 +1375,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w061</loc>
+    <loc>http://akashi-list.me/redirect/w061.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon061.png</image:loc>
       <image:caption>二式艦上偵察機</image:caption>
@@ -1398,7 +1398,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w062</loc>
+    <loc>http://akashi-list.me/redirect/w062.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon062.png</image:loc>
       <image:caption>試製晴嵐</image:caption>
@@ -1421,7 +1421,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w063</loc>
+    <loc>http://akashi-list.me/redirect/w063.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon063.png</image:loc>
       <image:caption>12.7cm連装砲B型改二</image:caption>
@@ -1444,7 +1444,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w064</loc>
+    <loc>http://akashi-list.me/redirect/w064.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon064.png</image:loc>
       <image:caption>Ju87C改</image:caption>
@@ -1467,7 +1467,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w065</loc>
+    <loc>http://akashi-list.me/redirect/w065.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon065.png</image:loc>
       <image:caption>15.2cm連装砲</image:caption>
@@ -1490,7 +1490,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w066</loc>
+    <loc>http://akashi-list.me/redirect/w066.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon066.png</image:loc>
       <image:caption>8cm高角砲</image:caption>
@@ -1513,7 +1513,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w067</loc>
+    <loc>http://akashi-list.me/redirect/w067.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon067.png</image:loc>
       <image:caption>53cm艦首(酸素)魚雷</image:caption>
@@ -1536,7 +1536,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w068</loc>
+    <loc>http://akashi-list.me/redirect/w068.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon068.png</image:loc>
       <image:caption>大発動艇</image:caption>
@@ -1559,7 +1559,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w069</loc>
+    <loc>http://akashi-list.me/redirect/w069.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon069.png</image:loc>
       <image:caption>カ号観測機</image:caption>
@@ -1582,7 +1582,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w070</loc>
+    <loc>http://akashi-list.me/redirect/w070.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon070.png</image:loc>
       <image:caption>三式指揮連絡機(対潜)</image:caption>
@@ -1605,7 +1605,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w071</loc>
+    <loc>http://akashi-list.me/redirect/w071.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon071.png</image:loc>
       <image:caption>10cm連装高角砲(砲架)</image:caption>
@@ -1628,7 +1628,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w072</loc>
+    <loc>http://akashi-list.me/redirect/w072.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon072.png</image:loc>
       <image:caption>増設バルジ(中型艦)</image:caption>
@@ -1651,7 +1651,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w073</loc>
+    <loc>http://akashi-list.me/redirect/w073.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon073.png</image:loc>
       <image:caption>増設バルジ(大型艦)</image:caption>
@@ -1674,7 +1674,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w074</loc>
+    <loc>http://akashi-list.me/redirect/w074.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon074.png</image:loc>
       <image:caption>探照灯</image:caption>
@@ -1697,7 +1697,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w075</loc>
+    <loc>http://akashi-list.me/redirect/w075.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon075.png</image:loc>
       <image:caption>ドラム缶(輸送用)</image:caption>
@@ -1720,7 +1720,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w076</loc>
+    <loc>http://akashi-list.me/redirect/w076.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon076.png</image:loc>
       <image:caption>38cm連装砲</image:caption>
@@ -1743,7 +1743,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w077</loc>
+    <loc>http://akashi-list.me/redirect/w077.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon077.png</image:loc>
       <image:caption>15cm連装副砲</image:caption>
@@ -1766,7 +1766,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w078</loc>
+    <loc>http://akashi-list.me/redirect/w078.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon078.png</image:loc>
       <image:caption>12.7cm単装砲</image:caption>
@@ -1789,7 +1789,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w079</loc>
+    <loc>http://akashi-list.me/redirect/w079.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon079.png</image:loc>
       <image:caption>瑞雲(六三四空)</image:caption>
@@ -1812,7 +1812,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w080</loc>
+    <loc>http://akashi-list.me/redirect/w080.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon080.png</image:loc>
       <image:caption>瑞雲12型</image:caption>
@@ -1835,7 +1835,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w081</loc>
+    <loc>http://akashi-list.me/redirect/w081.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon081.png</image:loc>
       <image:caption>瑞雲12型(六三四空)</image:caption>
@@ -1858,7 +1858,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w082</loc>
+    <loc>http://akashi-list.me/redirect/w082.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon082.png</image:loc>
       <image:caption>九七式艦攻(九三一空)</image:caption>
@@ -1881,7 +1881,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w083</loc>
+    <loc>http://akashi-list.me/redirect/w083.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon083.png</image:loc>
       <image:caption>天山(九三一空)</image:caption>
@@ -1904,7 +1904,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w084</loc>
+    <loc>http://akashi-list.me/redirect/w084.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon084.png</image:loc>
       <image:caption>2cm四連装FlaK38</image:caption>
@@ -1927,7 +1927,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w085</loc>
+    <loc>http://akashi-list.me/redirect/w085.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon085.png</image:loc>
       <image:caption>3.7cmFlaKM42</image:caption>
@@ -1950,7 +1950,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w086</loc>
+    <loc>http://akashi-list.me/redirect/w086.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon086.png</image:loc>
       <image:caption>艦艇修理施設</image:caption>
@@ -1973,7 +1973,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w087</loc>
+    <loc>http://akashi-list.me/redirect/w087.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon087.png</image:loc>
       <image:caption>新型高温高圧缶</image:caption>
@@ -1996,7 +1996,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w088</loc>
+    <loc>http://akashi-list.me/redirect/w088.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon088.png</image:loc>
       <image:caption>22号対水上電探改四</image:caption>
@@ -2019,7 +2019,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w089</loc>
+    <loc>http://akashi-list.me/redirect/w089.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon089.png</image:loc>
       <image:caption>21号対空電探改</image:caption>
@@ -2042,7 +2042,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w090</loc>
+    <loc>http://akashi-list.me/redirect/w090.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon090.png</image:loc>
       <image:caption>20.3cm(2号)連装砲</image:caption>
@@ -2065,7 +2065,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w091</loc>
+    <loc>http://akashi-list.me/redirect/w091.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon091.png</image:loc>
       <image:caption>12.7cm連装高角砲(後期型)</image:caption>
@@ -2088,7 +2088,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w092</loc>
+    <loc>http://akashi-list.me/redirect/w092.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon092.png</image:loc>
       <image:caption>毘式40mm連装機銃</image:caption>
@@ -2111,7 +2111,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w093</loc>
+    <loc>http://akashi-list.me/redirect/w093.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon093.png</image:loc>
       <image:caption>九七式艦攻(友永隊)</image:caption>
@@ -2134,7 +2134,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w094</loc>
+    <loc>http://akashi-list.me/redirect/w094.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon094.png</image:loc>
       <image:caption>天山一二型(友永隊)</image:caption>
@@ -2157,7 +2157,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w095</loc>
+    <loc>http://akashi-list.me/redirect/w095.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon095.png</image:loc>
       <image:caption>潜水艦53cm艦首魚雷(8門)</image:caption>
@@ -2180,7 +2180,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w096</loc>
+    <loc>http://akashi-list.me/redirect/w096.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon096.png</image:loc>
       <image:caption>零式艦戦21型(熟練)</image:caption>
@@ -2203,7 +2203,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w097</loc>
+    <loc>http://akashi-list.me/redirect/w097.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon097.png</image:loc>
       <image:caption>九九式艦爆(熟練)</image:caption>
@@ -2226,7 +2226,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w098</loc>
+    <loc>http://akashi-list.me/redirect/w098.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon098.png</image:loc>
       <image:caption>九七式艦攻(熟練)</image:caption>
@@ -2249,7 +2249,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w099</loc>
+    <loc>http://akashi-list.me/redirect/w099.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon099.png</image:loc>
       <image:caption>九九式艦爆(江草隊)</image:caption>
@@ -2272,7 +2272,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w100</loc>
+    <loc>http://akashi-list.me/redirect/w100.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon100.png</image:loc>
       <image:caption>彗星(江草隊)</image:caption>
@@ -2295,7 +2295,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w101</loc>
+    <loc>http://akashi-list.me/redirect/w101.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon101.png</image:loc>
       <image:caption>照明弾</image:caption>
@@ -2318,7 +2318,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w102</loc>
+    <loc>http://akashi-list.me/redirect/w102.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon102.png</image:loc>
       <image:caption>九八式水上偵察機(夜偵)</image:caption>
@@ -2341,7 +2341,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w103</loc>
+    <loc>http://akashi-list.me/redirect/w103.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon103.png</image:loc>
       <image:caption>試製35.6cm三連装砲</image:caption>
@@ -2364,7 +2364,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w104</loc>
+    <loc>http://akashi-list.me/redirect/w104.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon104.png</image:loc>
       <image:caption>35.6cm連装砲(ダズル迷彩)</image:caption>
@@ -2387,7 +2387,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w105</loc>
+    <loc>http://akashi-list.me/redirect/w105.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon105.png</image:loc>
       <image:caption>試製41cm三連装砲</image:caption>
@@ -2410,7 +2410,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w106</loc>
+    <loc>http://akashi-list.me/redirect/w106.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon106.png</image:loc>
       <image:caption>13号対空電探改</image:caption>
@@ -2433,7 +2433,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w107</loc>
+    <loc>http://akashi-list.me/redirect/w107.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon107.png</image:loc>
       <image:caption>艦隊司令部施設</image:caption>
@@ -2456,7 +2456,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w108</loc>
+    <loc>http://akashi-list.me/redirect/w108.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon108.png</image:loc>
       <image:caption>熟練艦載機整備員</image:caption>
@@ -2479,7 +2479,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w109</loc>
+    <loc>http://akashi-list.me/redirect/w109.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon109.png</image:loc>
       <image:caption>零戦52型丙(六〇一空)</image:caption>
@@ -2502,7 +2502,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w110</loc>
+    <loc>http://akashi-list.me/redirect/w110.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon110.png</image:loc>
       <image:caption>烈風(六〇一空)</image:caption>
@@ -2525,7 +2525,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w111</loc>
+    <loc>http://akashi-list.me/redirect/w111.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon111.png</image:loc>
       <image:caption>彗星(六〇一空)</image:caption>
@@ -2548,7 +2548,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w112</loc>
+    <loc>http://akashi-list.me/redirect/w112.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon112.png</image:loc>
       <image:caption>天山(六〇一空)</image:caption>
@@ -2571,7 +2571,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w113</loc>
+    <loc>http://akashi-list.me/redirect/w113.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon113.png</image:loc>
       <image:caption>流星(六〇一空)</image:caption>
@@ -2594,7 +2594,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w114</loc>
+    <loc>http://akashi-list.me/redirect/w114.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon114.png</image:loc>
       <image:caption>38cm連装砲改</image:caption>
@@ -2617,7 +2617,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w115</loc>
+    <loc>http://akashi-list.me/redirect/w115.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon115.png</image:loc>
       <image:caption>Ar196改</image:caption>
@@ -2640,7 +2640,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w116</loc>
+    <loc>http://akashi-list.me/redirect/w116.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon116.png</image:loc>
       <image:caption>一式徹甲弾</image:caption>
@@ -2663,7 +2663,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w117</loc>
+    <loc>http://akashi-list.me/redirect/w117.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon117.png</image:loc>
       <image:caption>試製46cm連装砲</image:caption>
@@ -2686,7 +2686,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w118</loc>
+    <loc>http://akashi-list.me/redirect/w118.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon118.png</image:loc>
       <image:caption>紫雲</image:caption>
@@ -2709,7 +2709,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w119</loc>
+    <loc>http://akashi-list.me/redirect/w119.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon119.png</image:loc>
       <image:caption>14cm連装砲</image:caption>
@@ -2732,7 +2732,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w120</loc>
+    <loc>http://akashi-list.me/redirect/w120.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon120.png</image:loc>
       <image:caption>91式高射装置</image:caption>
@@ -2755,7 +2755,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w121</loc>
+    <loc>http://akashi-list.me/redirect/w121.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon121.png</image:loc>
       <image:caption>94式高射装置</image:caption>
@@ -2778,7 +2778,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w122</loc>
+    <loc>http://akashi-list.me/redirect/w122.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon122.png</image:loc>
       <image:caption>10cm高角砲＋高射装置</image:caption>
@@ -2801,7 +2801,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w123</loc>
+    <loc>http://akashi-list.me/redirect/w123.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon123.png</image:loc>
       <image:caption>SKC3420.3cm連装砲</image:caption>
@@ -2824,7 +2824,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w124</loc>
+    <loc>http://akashi-list.me/redirect/w124.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon124.png</image:loc>
       <image:caption>FuMO25レーダー</image:caption>
@@ -2847,7 +2847,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w125</loc>
+    <loc>http://akashi-list.me/redirect/w125.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon125.png</image:loc>
       <image:caption>61cm三連装(酸素)魚雷</image:caption>
@@ -2870,7 +2870,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w126</loc>
+    <loc>http://akashi-list.me/redirect/w126.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon126.png</image:loc>
       <image:caption>WG42(Wurfgerat42)</image:caption>
@@ -2893,7 +2893,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w127</loc>
+    <loc>http://akashi-list.me/redirect/w127.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon127.png</image:loc>
       <image:caption>試製FaT仕様九五式酸素魚雷改</image:caption>
@@ -2916,7 +2916,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w128</loc>
+    <loc>http://akashi-list.me/redirect/w128.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon128.png</image:loc>
       <image:caption>試製51cm連装砲</image:caption>
@@ -2939,7 +2939,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w129</loc>
+    <loc>http://akashi-list.me/redirect/w129.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon129.png</image:loc>
       <image:caption>熟練見張員</image:caption>
@@ -2962,7 +2962,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w130</loc>
+    <loc>http://akashi-list.me/redirect/w130.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon130.png</image:loc>
       <image:caption>12.7cm高角砲＋高射装置</image:caption>
@@ -2985,7 +2985,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w131</loc>
+    <loc>http://akashi-list.me/redirect/w131.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon131.png</image:loc>
       <image:caption>25mm三連装機銃集中配備</image:caption>
@@ -3008,7 +3008,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w132</loc>
+    <loc>http://akashi-list.me/redirect/w132.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon132.png</image:loc>
       <image:caption>零式水中聴音機</image:caption>
@@ -3031,7 +3031,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w133</loc>
+    <loc>http://akashi-list.me/redirect/w133.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon133.png</image:loc>
       <image:caption>381mm/50三連装砲</image:caption>
@@ -3054,7 +3054,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w134</loc>
+    <loc>http://akashi-list.me/redirect/w134.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon134.png</image:loc>
       <image:caption>OTO152mm三連装速射砲</image:caption>
@@ -3077,7 +3077,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w135</loc>
+    <loc>http://akashi-list.me/redirect/w135.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon135.png</image:loc>
       <image:caption>90mm単装高角砲</image:caption>
@@ -3100,7 +3100,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w136</loc>
+    <loc>http://akashi-list.me/redirect/w136.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon136.png</image:loc>
       <image:caption>プリエーゼ式水中防御隔壁</image:caption>
@@ -3123,7 +3123,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w137</loc>
+    <loc>http://akashi-list.me/redirect/w137.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon137.png</image:loc>
       <image:caption>381mm/50三連装砲改</image:caption>
@@ -3146,7 +3146,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w138</loc>
+    <loc>http://akashi-list.me/redirect/w138.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon138.png</image:loc>
       <image:caption>二式大艇</image:caption>
@@ -3169,7 +3169,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w139</loc>
+    <loc>http://akashi-list.me/redirect/w139.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon139.png</image:loc>
       <image:caption>15.2cm連装砲改</image:caption>
@@ -3192,7 +3192,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w140</loc>
+    <loc>http://akashi-list.me/redirect/w140.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon140.png</image:loc>
       <image:caption>96式150cm探照灯</image:caption>
@@ -3215,7 +3215,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w141</loc>
+    <loc>http://akashi-list.me/redirect/w141.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon141.png</image:loc>
       <image:caption>32号対水上電探改</image:caption>
@@ -3238,7 +3238,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w142</loc>
+    <loc>http://akashi-list.me/redirect/w142.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon142.png</image:loc>
       <image:caption>15m二重測距儀+21号電探改二</image:caption>
@@ -3261,7 +3261,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w143</loc>
+    <loc>http://akashi-list.me/redirect/w143.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon143.png</image:loc>
       <image:caption>九七式艦攻(村田隊)</image:caption>
@@ -3284,7 +3284,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w144</loc>
+    <loc>http://akashi-list.me/redirect/w144.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon144.png</image:loc>
       <image:caption>天山一二型(村田隊)</image:caption>
@@ -3307,7 +3307,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w145</loc>
+    <loc>http://akashi-list.me/redirect/w145.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon145.png</image:loc>
       <image:caption>戦闘糧食</image:caption>
@@ -3330,7 +3330,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w146</loc>
+    <loc>http://akashi-list.me/redirect/w146.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon146.png</image:loc>
       <image:caption>洋上補給</image:caption>
@@ -3353,7 +3353,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w147</loc>
+    <loc>http://akashi-list.me/redirect/w147.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon147.png</image:loc>
       <image:caption>120mm連装砲</image:caption>
@@ -3376,7 +3376,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w148</loc>
+    <loc>http://akashi-list.me/redirect/w148.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon148.png</image:loc>
       <image:caption>試製南山</image:caption>
@@ -3399,7 +3399,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w149</loc>
+    <loc>http://akashi-list.me/redirect/w149.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon149.png</image:loc>
       <image:caption>四式水中聴音機</image:caption>
@@ -3422,7 +3422,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w150</loc>
+    <loc>http://akashi-list.me/redirect/w150.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon150.png</image:loc>
       <image:caption>秋刀魚の缶詰</image:caption>
@@ -3445,7 +3445,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w151</loc>
+    <loc>http://akashi-list.me/redirect/w151.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon151.png</image:loc>
       <image:caption>試製景雲(艦偵型)</image:caption>
@@ -3468,7 +3468,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w152</loc>
+    <loc>http://akashi-list.me/redirect/w152.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon152.png</image:loc>
       <image:caption>零式艦戦52型(熟練)</image:caption>
@@ -3491,7 +3491,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w153</loc>
+    <loc>http://akashi-list.me/redirect/w153.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon153.png</image:loc>
       <image:caption>零戦52型丙(付岩井小隊)</image:caption>
@@ -3514,7 +3514,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w154</loc>
+    <loc>http://akashi-list.me/redirect/w154.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon154.png</image:loc>
       <image:caption>零戦62型(爆戦／岩井隊)</image:caption>
@@ -3537,7 +3537,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w155</loc>
+    <loc>http://akashi-list.me/redirect/w155.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon155.png</image:loc>
       <image:caption>零戦21型(付岩本小隊)</image:caption>
@@ -3560,7 +3560,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w156</loc>
+    <loc>http://akashi-list.me/redirect/w156.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon156.png</image:loc>
       <image:caption>零戦52型甲(付岩本小隊)</image:caption>
@@ -3583,7 +3583,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w157</loc>
+    <loc>http://akashi-list.me/redirect/w157.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon157.png</image:loc>
       <image:caption>零式艦戦53型(岩本隊)</image:caption>
@@ -3606,7 +3606,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w158</loc>
+    <loc>http://akashi-list.me/redirect/w158.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon158.png</image:loc>
       <image:caption>Bf109T改</image:caption>
@@ -3629,7 +3629,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w159</loc>
+    <loc>http://akashi-list.me/redirect/w159.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon159.png</image:loc>
       <image:caption>Fw190T改</image:caption>
@@ -3652,7 +3652,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w160</loc>
+    <loc>http://akashi-list.me/redirect/w160.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon160.png</image:loc>
       <image:caption>10.5cm連装砲</image:caption>
@@ -3675,7 +3675,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w161</loc>
+    <loc>http://akashi-list.me/redirect/w161.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon161.png</image:loc>
       <image:caption>16inch三連装砲Mk.7</image:caption>
@@ -3698,7 +3698,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w162</loc>
+    <loc>http://akashi-list.me/redirect/w162.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon162.png</image:loc>
       <image:caption>203mm/53連装砲</image:caption>
@@ -3721,7 +3721,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w163</loc>
+    <loc>http://akashi-list.me/redirect/w163.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon163.png</image:loc>
       <image:caption>Ro.43水偵</image:caption>
@@ -3744,7 +3744,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w164</loc>
+    <loc>http://akashi-list.me/redirect/w164.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon164.png</image:loc>
       <image:caption>Ro.44水上戦闘機</image:caption>
@@ -3767,7 +3767,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w165</loc>
+    <loc>http://akashi-list.me/redirect/w165.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon165.png</image:loc>
       <image:caption>二式水戦改</image:caption>
@@ -3790,7 +3790,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w166</loc>
+    <loc>http://akashi-list.me/redirect/w166.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon166.png</image:loc>
       <image:caption>大発動艇(八九式中戦車&amp;陸戦隊)</image:caption>
@@ -3813,7 +3813,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w167</loc>
+    <loc>http://akashi-list.me/redirect/w167.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon167.png</image:loc>
       <image:caption>特二式内火艇</image:caption>
@@ -3836,7 +3836,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w168</loc>
+    <loc>http://akashi-list.me/redirect/w168.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon168.png</image:loc>
       <image:caption>九六式陸攻</image:caption>
@@ -3859,7 +3859,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w169</loc>
+    <loc>http://akashi-list.me/redirect/w169.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon169.png</image:loc>
       <image:caption>一式陸攻</image:caption>
@@ -3882,7 +3882,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w170</loc>
+    <loc>http://akashi-list.me/redirect/w170.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon170.png</image:loc>
       <image:caption>一式陸攻(野中隊)</image:caption>
@@ -3905,7 +3905,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w171</loc>
+    <loc>http://akashi-list.me/redirect/w171.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon171.png</image:loc>
       <image:caption>OS2U</image:caption>
@@ -3928,7 +3928,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w172</loc>
+    <loc>http://akashi-list.me/redirect/w172.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon172.png</image:loc>
       <image:caption>5inch連装砲Mk.28mod.2</image:caption>
@@ -3951,7 +3951,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w173</loc>
+    <loc>http://akashi-list.me/redirect/w173.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon173.png</image:loc>
       <image:caption>Bofors40mm四連装機関砲</image:caption>
@@ -3974,7 +3974,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w174</loc>
+    <loc>http://akashi-list.me/redirect/w174.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon174.png</image:loc>
       <image:caption>53cm連装魚雷</image:caption>
@@ -3997,7 +3997,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w175</loc>
+    <loc>http://akashi-list.me/redirect/w175.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon175.png</image:loc>
       <image:caption>雷電</image:caption>
@@ -4020,7 +4020,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w176</loc>
+    <loc>http://akashi-list.me/redirect/w176.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon176.png</image:loc>
       <image:caption>三式戦飛燕</image:caption>
@@ -4043,7 +4043,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w177</loc>
+    <loc>http://akashi-list.me/redirect/w177.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon177.png</image:loc>
       <image:caption>三式戦飛燕(飛行第244戦隊)</image:caption>
@@ -4066,7 +4066,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w178</loc>
+    <loc>http://akashi-list.me/redirect/w178.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon178.png</image:loc>
       <image:caption>PBY-5ACatalina</image:caption>
@@ -4089,7 +4089,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w179</loc>
+    <loc>http://akashi-list.me/redirect/w179.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon179.png</image:loc>
       <image:caption>試製61cm六連装(酸素)魚雷</image:caption>
@@ -4112,7 +4112,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w180</loc>
+    <loc>http://akashi-list.me/redirect/w180.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon180.png</image:loc>
       <image:caption>一式陸攻二二型甲</image:caption>
@@ -4135,7 +4135,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w181</loc>
+    <loc>http://akashi-list.me/redirect/w181.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon181.png</image:loc>
       <image:caption>零式艦戦32型</image:caption>
@@ -4158,7 +4158,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w182</loc>
+    <loc>http://akashi-list.me/redirect/w182.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon182.png</image:loc>
       <image:caption>零式艦戦32型(熟練)</image:caption>
@@ -4181,7 +4181,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w183</loc>
+    <loc>http://akashi-list.me/redirect/w183.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon183.png</image:loc>
       <image:caption>16inch三連装砲Mk.7+GFCS</image:caption>
@@ -4204,7 +4204,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w184</loc>
+    <loc>http://akashi-list.me/redirect/w184.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon184.png</image:loc>
       <image:caption>Re.2001OR改</image:caption>
@@ -4227,7 +4227,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w185</loc>
+    <loc>http://akashi-list.me/redirect/w185.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon185.png</image:loc>
       <image:caption>三式戦飛燕一型丁</image:caption>
@@ -4250,7 +4250,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w186</loc>
+    <loc>http://akashi-list.me/redirect/w186.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon186.png</image:loc>
       <image:caption>一式陸攻三四型</image:caption>
@@ -4273,7 +4273,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w187</loc>
+    <loc>http://akashi-list.me/redirect/w187.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon187.png</image:loc>
       <image:caption>銀河</image:caption>
@@ -4296,7 +4296,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w188</loc>
+    <loc>http://akashi-list.me/redirect/w188.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon188.png</image:loc>
       <image:caption>Re.2001G改</image:caption>
@@ -4319,7 +4319,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w189</loc>
+    <loc>http://akashi-list.me/redirect/w189.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon189.png</image:loc>
       <image:caption>Re.2005改</image:caption>
@@ -4342,7 +4342,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w190</loc>
+    <loc>http://akashi-list.me/redirect/w190.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon190.png</image:loc>
       <image:caption>38.1cmMk.I連装砲</image:caption>
@@ -4365,7 +4365,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w191</loc>
+    <loc>http://akashi-list.me/redirect/w191.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon191.png</image:loc>
       <image:caption>QF2ポンド8連装ポンポン砲</image:caption>
@@ -4388,7 +4388,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w192</loc>
+    <loc>http://akashi-list.me/redirect/w192.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon192.png</image:loc>
       <image:caption>38.1cmMk.I/N連装砲改</image:caption>
@@ -4411,7 +4411,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w193</loc>
+    <loc>http://akashi-list.me/redirect/w193.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon193.png</image:loc>
       <image:caption>特大発動艇</image:caption>
@@ -4434,7 +4434,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w194</loc>
+    <loc>http://akashi-list.me/redirect/w194.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon194.png</image:loc>
       <image:caption>Laté298B</image:caption>
@@ -4457,7 +4457,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w195</loc>
+    <loc>http://akashi-list.me/redirect/w195.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon195.png</image:loc>
       <image:caption>SBD</image:caption>
@@ -4480,7 +4480,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w196</loc>
+    <loc>http://akashi-list.me/redirect/w196.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon196.png</image:loc>
       <image:caption>TBD</image:caption>
@@ -4503,7 +4503,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w197</loc>
+    <loc>http://akashi-list.me/redirect/w197.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon197.png</image:loc>
       <image:caption>F4F-3</image:caption>
@@ -4526,7 +4526,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w198</loc>
+    <loc>http://akashi-list.me/redirect/w198.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon198.png</image:loc>
       <image:caption>F4F-4</image:caption>
@@ -4549,7 +4549,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w199</loc>
+    <loc>http://akashi-list.me/redirect/w199.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon199.png</image:loc>
       <image:caption>噴式景雲改</image:caption>
@@ -4572,7 +4572,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w200</loc>
+    <loc>http://akashi-list.me/redirect/w200.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon200.png</image:loc>
       <image:caption>橘花改</image:caption>
@@ -4595,7 +4595,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w201</loc>
+    <loc>http://akashi-list.me/redirect/w201.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon201.png</image:loc>
       <image:caption>紫電一一型</image:caption>
@@ -4618,7 +4618,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w202</loc>
+    <loc>http://akashi-list.me/redirect/w202.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon202.png</image:loc>
       <image:caption>紫電二一型紫電改</image:caption>
@@ -4641,7 +4641,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w203</loc>
+    <loc>http://akashi-list.me/redirect/w203.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon203.png</image:loc>
       <image:caption>艦本新設計増設バルジ(中型艦)</image:caption>
@@ -4664,7 +4664,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w204</loc>
+    <loc>http://akashi-list.me/redirect/w204.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon204.png</image:loc>
       <image:caption>艦本新設計増設バルジ(大型艦)</image:caption>
@@ -4687,7 +4687,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w205</loc>
+    <loc>http://akashi-list.me/redirect/w205.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon205.png</image:loc>
       <image:caption>F6F-3</image:caption>
@@ -4710,7 +4710,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w206</loc>
+    <loc>http://akashi-list.me/redirect/w206.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon206.png</image:loc>
       <image:caption>F6F-5</image:caption>
@@ -4733,7 +4733,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w207</loc>
+    <loc>http://akashi-list.me/redirect/w207.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon207.png</image:loc>
       <image:caption>瑞雲(六三一空)</image:caption>
@@ -4756,7 +4756,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w208</loc>
+    <loc>http://akashi-list.me/redirect/w208.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon208.png</image:loc>
       <image:caption>晴嵐(六三一空)</image:caption>
@@ -4779,7 +4779,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w209</loc>
+    <loc>http://akashi-list.me/redirect/w209.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon209.png</image:loc>
       <image:caption>彩雲(輸送用分解済)</image:caption>
@@ -4802,7 +4802,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w210</loc>
+    <loc>http://akashi-list.me/redirect/w210.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon210.png</image:loc>
       <image:caption>潜水艦搭載電探＆水防式望遠鏡</image:caption>
@@ -4825,7 +4825,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w211</loc>
+    <loc>http://akashi-list.me/redirect/w211.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon211.png</image:loc>
       <image:caption>潜水艦搭載電探＆逆探(E27)</image:caption>
@@ -4848,7 +4848,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w212</loc>
+    <loc>http://akashi-list.me/redirect/w212.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon212.png</image:loc>
       <image:caption>彩雲(東カロリン空)</image:caption>
@@ -4871,7 +4871,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w213</loc>
+    <loc>http://akashi-list.me/redirect/w213.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon213.png</image:loc>
       <image:caption>後期型艦首魚雷(6門)</image:caption>
@@ -4894,7 +4894,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w214</loc>
+    <loc>http://akashi-list.me/redirect/w214.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon214.png</image:loc>
       <image:caption>熟練聴音員＋後期型艦首魚雷(6門)</image:caption>
@@ -4917,7 +4917,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w215</loc>
+    <loc>http://akashi-list.me/redirect/w215.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon215.png</image:loc>
       <image:caption>Ro.44水上戦闘機bis</image:caption>
@@ -4940,7 +4940,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w216</loc>
+    <loc>http://akashi-list.me/redirect/w216.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon216.png</image:loc>
       <image:caption>二式水戦改(熟練)</image:caption>
@@ -4963,7 +4963,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w217</loc>
+    <loc>http://akashi-list.me/redirect/w217.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon217.png</image:loc>
       <image:caption>強風改</image:caption>
@@ -4986,7 +4986,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w219</loc>
+    <loc>http://akashi-list.me/redirect/w219.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon219.png</image:loc>
       <image:caption>零式艦戦63型(爆戦)</image:caption>
@@ -5009,7 +5009,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w220</loc>
+    <loc>http://akashi-list.me/redirect/w220.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon220.png</image:loc>
       <image:caption>8cm高角砲改＋増設機銃</image:caption>
@@ -5032,7 +5032,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w221</loc>
+    <loc>http://akashi-list.me/redirect/w221.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon221.png</image:loc>
       <image:caption>一式戦隼II型</image:caption>
@@ -5055,7 +5055,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w222</loc>
+    <loc>http://akashi-list.me/redirect/w222.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon222.png</image:loc>
       <image:caption>一式戦隼III型甲</image:caption>
@@ -5078,7 +5078,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w223</loc>
+    <loc>http://akashi-list.me/redirect/w223.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon223.png</image:loc>
       <image:caption>一式戦隼III型甲(54戦隊)</image:caption>
@@ -5101,7 +5101,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w224</loc>
+    <loc>http://akashi-list.me/redirect/w224.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon224.png</image:loc>
       <image:caption>爆装一式戦隼III型改(55戦隊)</image:caption>
@@ -5124,7 +5124,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w225</loc>
+    <loc>http://akashi-list.me/redirect/w225.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon225.png</image:loc>
       <image:caption>一式戦隼II型(64戦隊)</image:caption>
@@ -5147,7 +5147,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w226</loc>
+    <loc>http://akashi-list.me/redirect/w226.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon226.png</image:loc>
       <image:caption>九五式爆雷</image:caption>
@@ -5170,7 +5170,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w227</loc>
+    <loc>http://akashi-list.me/redirect/w227.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon227.png</image:loc>
       <image:caption>二式爆雷</image:caption>
@@ -5193,7 +5193,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w228</loc>
+    <loc>http://akashi-list.me/redirect/w228.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon228.png</image:loc>
       <image:caption>九六式艦戦改</image:caption>
@@ -5216,7 +5216,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w229</loc>
+    <loc>http://akashi-list.me/redirect/w229.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon229.png</image:loc>
       <image:caption>12.7cm単装高角砲(後期型)</image:caption>
@@ -5239,7 +5239,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w230</loc>
+    <loc>http://akashi-list.me/redirect/w230.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon230.png</image:loc>
       <image:caption>特大発動艇+戦車第11連隊</image:caption>
@@ -5262,7 +5262,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w231</loc>
+    <loc>http://akashi-list.me/redirect/w231.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon231.png</image:loc>
       <image:caption>30.5cm三連装砲</image:caption>
@@ -5285,7 +5285,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w232</loc>
+    <loc>http://akashi-list.me/redirect/w232.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon232.png</image:loc>
       <image:caption>30.5cm三連装砲改</image:caption>
@@ -5308,7 +5308,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w233</loc>
+    <loc>http://akashi-list.me/redirect/w233.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon233.png</image:loc>
       <image:caption>F4U-1D</image:caption>
@@ -5331,7 +5331,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w234</loc>
+    <loc>http://akashi-list.me/redirect/w234.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon234.png</image:loc>
       <image:caption>15.5cm三連装副砲改</image:caption>
@@ -5354,7 +5354,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w235</loc>
+    <loc>http://akashi-list.me/redirect/w235.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon235.png</image:loc>
       <image:caption>15.5cm三連装砲改</image:caption>
@@ -5377,7 +5377,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w236</loc>
+    <loc>http://akashi-list.me/redirect/w236.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon236.png</image:loc>
       <image:caption>41cm三連装砲改</image:caption>
@@ -5400,7 +5400,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w237</loc>
+    <loc>http://akashi-list.me/redirect/w237.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon237.png</image:loc>
       <image:caption>瑞雲(六三四空/熟練)</image:caption>
@@ -5423,7 +5423,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w238</loc>
+    <loc>http://akashi-list.me/redirect/w238.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon238.png</image:loc>
       <image:caption>零式水上偵察機11型乙</image:caption>
@@ -5446,7 +5446,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w239</loc>
+    <loc>http://akashi-list.me/redirect/w239.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon239.png</image:loc>
       <image:caption>零式水上偵察機11型乙(熟練)</image:caption>
@@ -5469,7 +5469,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w240</loc>
+    <loc>http://akashi-list.me/redirect/w240.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon240.png</image:loc>
       <image:caption>22号対水上電探改四(後期調整型)</image:caption>
@@ -5492,7 +5492,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w241</loc>
+    <loc>http://akashi-list.me/redirect/w241.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon241.png</image:loc>
       <image:caption>戦闘糧食(特別なおにぎり)</image:caption>
@@ -5515,7 +5515,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w242</loc>
+    <loc>http://akashi-list.me/redirect/w242.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon242.png</image:loc>
       <image:caption>Swordfish</image:caption>
@@ -5538,7 +5538,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w243</loc>
+    <loc>http://akashi-list.me/redirect/w243.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon243.png</image:loc>
       <image:caption>SwordfishMk.II(熟練)</image:caption>
@@ -5561,7 +5561,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w244</loc>
+    <loc>http://akashi-list.me/redirect/w244.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon244.png</image:loc>
       <image:caption>SwordfishMk.III(熟練)</image:caption>
@@ -5584,7 +5584,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w245</loc>
+    <loc>http://akashi-list.me/redirect/w245.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon245.png</image:loc>
       <image:caption>38cm四連装砲</image:caption>
@@ -5607,7 +5607,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w246</loc>
+    <loc>http://akashi-list.me/redirect/w246.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon246.png</image:loc>
       <image:caption>38cm四連装砲改</image:caption>
@@ -5630,7 +5630,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w247</loc>
+    <loc>http://akashi-list.me/redirect/w247.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon247.png</image:loc>
       <image:caption>15.2cm三連装砲</image:caption>
@@ -5653,7 +5653,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w248</loc>
+    <loc>http://akashi-list.me/redirect/w248.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon248.png</image:loc>
       <image:caption>Skua</image:caption>
@@ -5676,7 +5676,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w249</loc>
+    <loc>http://akashi-list.me/redirect/w249.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon249.png</image:loc>
       <image:caption>Fulmar</image:caption>
@@ -5699,7 +5699,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w250</loc>
+    <loc>http://akashi-list.me/redirect/w250.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon250.png</image:loc>
       <image:caption>SpitfireMk.I</image:caption>
@@ -5722,7 +5722,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w251</loc>
+    <loc>http://akashi-list.me/redirect/w251.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon251.png</image:loc>
       <image:caption>SpitfireMk.V</image:caption>
@@ -5745,7 +5745,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w252</loc>
+    <loc>http://akashi-list.me/redirect/w252.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon252.png</image:loc>
       <image:caption>SeafireMk.III改</image:caption>
@@ -5768,7 +5768,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w253</loc>
+    <loc>http://akashi-list.me/redirect/w253.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon253.png</image:loc>
       <image:caption>SpitfireMk.IX(熟練)</image:caption>
@@ -5791,7 +5791,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w254</loc>
+    <loc>http://akashi-list.me/redirect/w254.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon254.png</image:loc>
       <image:caption>F6F-3N</image:caption>
@@ -5814,7 +5814,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w255</loc>
+    <loc>http://akashi-list.me/redirect/w255.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon255.png</image:loc>
       <image:caption>F6F-5N</image:caption>
@@ -5837,7 +5837,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w256</loc>
+    <loc>http://akashi-list.me/redirect/w256.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon256.png</image:loc>
       <image:caption>TBF</image:caption>
@@ -5860,7 +5860,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w257</loc>
+    <loc>http://akashi-list.me/redirect/w257.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon257.png</image:loc>
       <image:caption>TBM-3D</image:caption>
@@ -5883,7 +5883,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w258</loc>
+    <loc>http://akashi-list.me/redirect/w258.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon258.png</image:loc>
       <image:caption>夜間作戦航空要員</image:caption>
@@ -5906,7 +5906,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w259</loc>
+    <loc>http://akashi-list.me/redirect/w259.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon259.png</image:loc>
       <image:caption>夜間作戦航空要員＋熟練甲板員</image:caption>
@@ -5929,7 +5929,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w260</loc>
+    <loc>http://akashi-list.me/redirect/w260.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon260.png</image:loc>
       <image:caption>Type124ASDIC</image:caption>
@@ -5952,7 +5952,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w261</loc>
+    <loc>http://akashi-list.me/redirect/w261.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon261.png</image:loc>
       <image:caption>Type144/147ASDIC</image:caption>
@@ -5975,7 +5975,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w262</loc>
+    <loc>http://akashi-list.me/redirect/w262.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon262.png</image:loc>
       <image:caption>HF/DF＋Type144/147ASDIC</image:caption>
@@ -5998,7 +5998,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w266</loc>
+    <loc>http://akashi-list.me/redirect/w266.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon266.png</image:loc>
       <image:caption>12.7cm連装砲C型改二</image:caption>
@@ -6021,7 +6021,30 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w268</loc>
+    <loc>http://akashi-list.me/redirect/w267.html</loc>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon267.png</image:loc>
+      <image:caption>12.7cm連装砲D型改二</image:caption>
+      <image:title>12.7cm連装砲D型改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon267_0.png</image:loc>
+      <image:caption>12.7cm連装砲D型改二 画像</image:caption>
+      <image:title>12.7cm連装砲D型改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon267_1.png</image:loc>
+      <image:caption>12.7cm連装砲D型改二 画像と妖精</image:caption>
+      <image:title>12.7cm連装砲D型改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon267_2.png</image:loc>
+      <image:caption>12.7cm連装砲D型改二 妖精</image:caption>
+      <image:title>12.7cm連装砲D型改二 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/redirect/w268.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon268.png</image:loc>
       <image:caption>北方迷彩(＋北方装備)</image:caption>
@@ -6044,7 +6067,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w269</loc>
+    <loc>http://akashi-list.me/redirect/w269.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon269.png</image:loc>
       <image:caption>試製東海</image:caption>
@@ -6067,7 +6090,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w270</loc>
+    <loc>http://akashi-list.me/redirect/w270.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon270.png</image:loc>
       <image:caption>東海(九〇一空)</image:caption>
@@ -6090,7 +6113,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w271</loc>
+    <loc>http://akashi-list.me/redirect/w271.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon271.png</image:loc>
       <image:caption>紫電改四</image:caption>
@@ -6113,7 +6136,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://akashi-list.me/#w272</loc>
+    <loc>http://akashi-list.me/redirect/w272.html</loc>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon272.png</image:loc>
       <image:caption>遊撃部隊艦隊司令部</image:caption>
