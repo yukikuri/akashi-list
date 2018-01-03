@@ -5,7 +5,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://akashi-list.me/redirect/w001.html</loc>
+    <loc>http://akashi-list.me/#!w001</loc>
     <priority>0.7</priority>
     <image:image>
       <image:loc>http://akashi-list.me/img/weapon001.png</image:loc>
