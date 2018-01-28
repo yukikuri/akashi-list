@@ -6426,4 +6426,100 @@
       <image:title>遊撃部隊艦隊司令部 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>http://akashi-list.me/#!w273</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon273.png</image:loc>
+      <image:caption>彩雲(偵四)</image:caption>
+      <image:title>彩雲(偵四)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon273_0.png</image:loc>
+      <image:caption>彩雲(偵四) 画像</image:caption>
+      <image:title>彩雲(偵四) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon273_1.png</image:loc>
+      <image:caption>彩雲(偵四) 画像と妖精</image:caption>
+      <image:title>彩雲(偵四) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon273_2.png</image:loc>
+      <image:caption>彩雲(偵四) 妖精</image:caption>
+      <image:title>彩雲(偵四) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w274</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon274.png</image:loc>
+      <image:caption>12cm30連装噴進砲改二</image:caption>
+      <image:title>12cm30連装噴進砲改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon274_0.png</image:loc>
+      <image:caption>12cm30連装噴進砲改二 画像</image:caption>
+      <image:title>12cm30連装噴進砲改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon274_1.png</image:loc>
+      <image:caption>12cm30連装噴進砲改二 画像と妖精</image:caption>
+      <image:title>12cm30連装噴進砲改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon274_2.png</image:loc>
+      <image:caption>12cm30連装噴進砲改二 妖精</image:caption>
+      <image:title>12cm30連装噴進砲改二 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w276</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon276.png</image:loc>
+      <image:caption>46cm三連装砲改</image:caption>
+      <image:title>46cm三連装砲改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon276_0.png</image:loc>
+      <image:caption>46cm三連装砲改 画像</image:caption>
+      <image:title>46cm三連装砲改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon276_1.png</image:loc>
+      <image:caption>46cm三連装砲改 画像と妖精</image:caption>
+      <image:title>46cm三連装砲改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon276_2.png</image:loc>
+      <image:caption>46cm三連装砲改 妖精</image:caption>
+      <image:title>46cm三連装砲改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w277</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon277.png</image:loc>
+      <image:caption>FM-2</image:caption>
+      <image:title>FM-2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon277_0.png</image:loc>
+      <image:caption>FM-2 画像</image:caption>
+      <image:title>FM-2 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon277_1.png</image:loc>
+      <image:caption>FM-2 画像と妖精</image:caption>
+      <image:title>FM-2 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon277_2.png</image:loc>
+      <image:caption>FM-2 妖精</image:caption>
+      <image:title>FM-2 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
