@@ -5203,6 +5203,30 @@
     </image:image>
   </url>
   <url>
+    <loc>http://akashi-list.me/#!w218</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon218.png</image:loc>
+      <image:caption>四式戦疾風</image:caption>
+      <image:title>四式戦疾風</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon218_0.png</image:loc>
+      <image:caption>四式戦疾風 画像</image:caption>
+      <image:title>四式戦疾風 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon218_1.png</image:loc>
+      <image:caption>四式戦疾風 画像と妖精</image:caption>
+      <image:title>四式戦疾風 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon218_2.png</image:loc>
+      <image:caption>四式戦疾風 妖精</image:caption>
+      <image:title>四式戦疾風 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>http://akashi-list.me/#!w219</loc>
     <priority>0.7</priority>
     <image:image>
@@ -6259,6 +6283,30 @@
     </image:image>
   </url>
   <url>
+    <loc>http://akashi-list.me/#!w263</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon263.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘301</image:caption>
+      <image:title>紫電改(三四三空)戦闘301</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon263_0.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘301 画像</image:caption>
+      <image:title>紫電改(三四三空)戦闘301 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon263_1.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘301 画像と妖精</image:caption>
+      <image:title>紫電改(三四三空)戦闘301 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon263_2.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘301 妖精</image:caption>
+      <image:title>紫電改(三四三空)戦闘301 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>http://akashi-list.me/#!w266</loc>
     <priority>0.7</priority>
     <image:image>
@@ -6475,6 +6523,30 @@
     </image:image>
   </url>
   <url>
+    <loc>http://akashi-list.me/#!w275</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon275.png</image:loc>
+      <image:caption>10cm連装高角砲改＋増設機銃</image:caption>
+      <image:title>10cm連装高角砲改＋増設機銃</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon275_0.png</image:loc>
+      <image:caption>10cm連装高角砲改＋増設機銃 画像</image:caption>
+      <image:title>10cm連装高角砲改＋増設機銃 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon275_1.png</image:loc>
+      <image:caption>10cm連装高角砲改＋増設機銃 画像と妖精</image:caption>
+      <image:title>10cm連装高角砲改＋増設機銃 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon275_2.png</image:loc>
+      <image:caption>10cm連装高角砲改＋増設機銃 妖精</image:caption>
+      <image:title>10cm連装高角砲改＋増設機銃 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>http://akashi-list.me/#!w276</loc>
     <priority>0.7</priority>
     <image:image>
@@ -6520,6 +6592,174 @@
       <image:loc>http://akashi-list.me/img/weapon277_2.png</image:loc>
       <image:caption>FM-2 妖精</image:caption>
       <image:title>FM-2 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w278</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon278.png</image:loc>
+      <image:caption>SKレーダー</image:caption>
+      <image:title>SKレーダー</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon278_0.png</image:loc>
+      <image:caption>SKレーダー 画像</image:caption>
+      <image:title>SKレーダー 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon278_1.png</image:loc>
+      <image:caption>SKレーダー 画像と妖精</image:caption>
+      <image:title>SKレーダー 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon278_2.png</image:loc>
+      <image:caption>SKレーダー 妖精</image:caption>
+      <image:title>SKレーダー 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w279</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon279.png</image:loc>
+      <image:caption>SK＋SGレーダー</image:caption>
+      <image:title>SK＋SGレーダー</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon279_0.png</image:loc>
+      <image:caption>SK＋SGレーダー 画像</image:caption>
+      <image:title>SK＋SGレーダー 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon279_1.png</image:loc>
+      <image:caption>SK＋SGレーダー 画像と妖精</image:caption>
+      <image:title>SK＋SGレーダー 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon279_2.png</image:loc>
+      <image:caption>SK＋SGレーダー 妖精</image:caption>
+      <image:title>SK＋SGレーダー 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w280</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon280.png</image:loc>
+      <image:caption>QF4.7inch砲Mk.XII改</image:caption>
+      <image:title>QF4.7inch砲Mk.XII改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon280_0.png</image:loc>
+      <image:caption>QF4.7inch砲Mk.XII改 画像</image:caption>
+      <image:title>QF4.7inch砲Mk.XII改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon280_1.png</image:loc>
+      <image:caption>QF4.7inch砲Mk.XII改 画像と妖精</image:caption>
+      <image:title>QF4.7inch砲Mk.XII改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon280_2.png</image:loc>
+      <image:caption>QF4.7inch砲Mk.XII改 妖精</image:caption>
+      <image:title>QF4.7inch砲Mk.XII改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w281</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon281.png</image:loc>
+      <image:caption>51cm連装砲</image:caption>
+      <image:title>51cm連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon281_0.png</image:loc>
+      <image:caption>51cm連装砲 画像</image:caption>
+      <image:title>51cm連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon281_1.png</image:loc>
+      <image:caption>51cm連装砲 画像と妖精</image:caption>
+      <image:title>51cm連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon281_2.png</image:loc>
+      <image:caption>51cm連装砲 妖精</image:caption>
+      <image:title>51cm連装砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w282</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon282.png</image:loc>
+      <image:caption>130mmB-13連装砲</image:caption>
+      <image:title>130mmB-13連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon282_0.png</image:loc>
+      <image:caption>130mmB-13連装砲 画像</image:caption>
+      <image:title>130mmB-13連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon282_1.png</image:loc>
+      <image:caption>130mmB-13連装砲 画像と妖精</image:caption>
+      <image:title>130mmB-13連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon282_2.png</image:loc>
+      <image:caption>130mmB-13連装砲 妖精</image:caption>
+      <image:title>130mmB-13連装砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w283</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon283.png</image:loc>
+      <image:caption>533mm三連装魚雷</image:caption>
+      <image:title>533mm三連装魚雷</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon283_0.png</image:loc>
+      <image:caption>533mm三連装魚雷 画像</image:caption>
+      <image:title>533mm三連装魚雷 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon283_1.png</image:loc>
+      <image:caption>533mm三連装魚雷 画像と妖精</image:caption>
+      <image:title>533mm三連装魚雷 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon283_2.png</image:loc>
+      <image:caption>533mm三連装魚雷 妖精</image:caption>
+      <image:title>533mm三連装魚雷 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w284</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon284.png</image:loc>
+      <image:caption>5inch単装砲Mk.30</image:caption>
+      <image:title>5inch単装砲Mk.30</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon284_0.png</image:loc>
+      <image:caption>5inch単装砲Mk.30 画像</image:caption>
+      <image:title>5inch単装砲Mk.30 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon284_1.png</image:loc>
+      <image:caption>5inch単装砲Mk.30 画像と妖精</image:caption>
+      <image:title>5inch単装砲Mk.30 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon284_2.png</image:loc>
+      <image:caption>5inch単装砲Mk.30 妖精</image:caption>
+      <image:title>5inch単装砲Mk.30 妖精</image:title>
     </image:image>
   </url>
 </urlset>
