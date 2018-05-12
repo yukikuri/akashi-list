@@ -6762,4 +6762,52 @@
       <image:title>5inch単装砲Mk.30 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>http://akashi-list.me/#!w285</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon285.png</image:loc>
+      <image:caption>61cm三連装(酸素)魚雷後期型</image:caption>
+      <image:title>61cm三連装(酸素)魚雷後期型</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon285_0.png</image:loc>
+      <image:caption>61cm三連装(酸素)魚雷後期型 画像</image:caption>
+      <image:title>61cm三連装(酸素)魚雷後期型 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon285_1.png</image:loc>
+      <image:caption>61cm三連装(酸素)魚雷後期型 画像と妖精</image:caption>
+      <image:title>61cm三連装(酸素)魚雷後期型 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon285_2.png</image:loc>
+      <image:caption>61cm三連装(酸素)魚雷後期型 妖精</image:caption>
+      <image:title>61cm三連装(酸素)魚雷後期型 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://akashi-list.me/#!w286</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon286.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷後期型</image:caption>
+      <image:title>61cm四連装(酸素)魚雷後期型</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon286_0.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷後期型 画像</image:caption>
+      <image:title>61cm四連装(酸素)魚雷後期型 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon286_1.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷後期型 画像と妖精</image:caption>
+      <image:title>61cm四連装(酸素)魚雷後期型 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>http://akashi-list.me/img/weapon286_2.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷後期型 妖精</image:caption>
+      <image:title>61cm四連装(酸素)魚雷後期型 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
