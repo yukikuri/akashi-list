@@ -513,23 +513,23 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon022.png</image:loc>
-      <image:caption>烈風</image:caption>
-      <image:title>烈風</image:title>
+      <image:caption>試製烈風後期型</image:caption>
+      <image:title>試製烈風後期型</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon022_0.png</image:loc>
-      <image:caption>烈風 画像</image:caption>
-      <image:title>烈風 画像</image:title>
+      <image:caption>試製烈風後期型 画像</image:caption>
+      <image:title>試製烈風後期型 画像</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon022_1.png</image:loc>
-      <image:caption>烈風 画像と妖精</image:caption>
-      <image:title>烈風 画像と妖精</image:title>
+      <image:caption>試製烈風後期型 画像と妖精</image:caption>
+      <image:title>試製烈風後期型 画像と妖精</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon022_2.png</image:loc>
-      <image:caption>烈風 妖精</image:caption>
-      <image:title>烈風 妖精</image:title>
+      <image:caption>試製烈風後期型 妖精</image:caption>
+      <image:title>試製烈風後期型 妖精</image:title>
     </image:image>
   </url>
   <url>
@@ -1247,23 +1247,23 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon053.png</image:loc>
-      <image:caption>烈風改</image:caption>
-      <image:title>烈風改</image:title>
+      <image:caption>烈風一一型</image:caption>
+      <image:title>烈風一一型</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon053_0.png</image:loc>
-      <image:caption>烈風改 画像</image:caption>
-      <image:title>烈風改 画像</image:title>
+      <image:caption>烈風一一型 画像</image:caption>
+      <image:title>烈風一一型 画像</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon053_1.png</image:loc>
-      <image:caption>烈風改 画像と妖精</image:caption>
-      <image:title>烈風改 画像と妖精</image:title>
+      <image:caption>烈風一一型 画像と妖精</image:caption>
+      <image:title>烈風一一型 画像と妖精</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon053_2.png</image:loc>
-      <image:caption>烈風改 妖精</image:caption>
-      <image:title>烈風改 妖精</image:title>
+      <image:caption>烈風一一型 妖精</image:caption>
+      <image:title>烈風一一型 妖精</image:title>
     </image:image>
   </url>
   <url>
@@ -7411,6 +7411,54 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#!w312</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon312.png</image:loc>
+      <image:caption>二式陸上偵察機(熟練)</image:caption>
+      <image:title>二式陸上偵察機(熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon312_0.png</image:loc>
+      <image:caption>二式陸上偵察機(熟練) 画像</image:caption>
+      <image:title>二式陸上偵察機(熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon312_1.png</image:loc>
+      <image:caption>二式陸上偵察機(熟練) 画像と妖精</image:caption>
+      <image:title>二式陸上偵察機(熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon312_2.png</image:loc>
+      <image:caption>二式陸上偵察機(熟練) 妖精</image:caption>
+      <image:title>二式陸上偵察機(熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w313</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon313.png</image:loc>
+      <image:caption>5inch単装砲Mk.30改</image:caption>
+      <image:title>5inch単装砲Mk.30改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon313_0.png</image:loc>
+      <image:caption>5inch単装砲Mk.30改 画像</image:caption>
+      <image:title>5inch単装砲Mk.30改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon313_1.png</image:loc>
+      <image:caption>5inch単装砲Mk.30改 画像と妖精</image:caption>
+      <image:title>5inch単装砲Mk.30改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon313_2.png</image:loc>
+      <image:caption>5inch単装砲Mk.30改 妖精</image:caption>
+      <image:title>5inch単装砲Mk.30改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#!w314</loc>
     <priority>0.7</priority>
     <image:image>
@@ -7456,6 +7504,750 @@
       <image:loc>https://akashi-list.me/img/weapon315_2.png</image:loc>
       <image:caption>SGレーダー(初期型) 妖精</image:caption>
       <image:title>SGレーダー(初期型) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w316</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon316.png</image:loc>
+      <image:caption>Re.2001CB改</image:caption>
+      <image:title>Re.2001CB改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon316_0.png</image:loc>
+      <image:caption>Re.2001CB改 画像</image:caption>
+      <image:title>Re.2001CB改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon316_1.png</image:loc>
+      <image:caption>Re.2001CB改 画像と妖精</image:caption>
+      <image:title>Re.2001CB改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon316_2.png</image:loc>
+      <image:caption>Re.2001CB改 妖精</image:caption>
+      <image:title>Re.2001CB改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w317</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon317.png</image:loc>
+      <image:caption>三式弾改</image:caption>
+      <image:title>三式弾改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon317_0.png</image:loc>
+      <image:caption>三式弾改 画像</image:caption>
+      <image:title>三式弾改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon317_1.png</image:loc>
+      <image:caption>三式弾改 画像と妖精</image:caption>
+      <image:title>三式弾改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon317_2.png</image:loc>
+      <image:caption>三式弾改 妖精</image:caption>
+      <image:title>三式弾改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w318</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon318.png</image:loc>
+      <image:caption>41cm連装砲改二</image:caption>
+      <image:title>41cm連装砲改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon318_0.png</image:loc>
+      <image:caption>41cm連装砲改二 画像</image:caption>
+      <image:title>41cm連装砲改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon318_1.png</image:loc>
+      <image:caption>41cm連装砲改二 画像と妖精</image:caption>
+      <image:title>41cm連装砲改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon318_2.png</image:loc>
+      <image:caption>41cm連装砲改二 妖精</image:caption>
+      <image:title>41cm連装砲改二 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w319</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon319.png</image:loc>
+      <image:caption>彗星一二型(六三四空／三号爆弾搭載機)</image:caption>
+      <image:title>彗星一二型(六三四空／三号爆弾搭載機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon319_0.png</image:loc>
+      <image:caption>彗星一二型(六三四空／三号爆弾搭載機) 画像</image:caption>
+      <image:title>彗星一二型(六三四空／三号爆弾搭載機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon319_1.png</image:loc>
+      <image:caption>彗星一二型(六三四空／三号爆弾搭載機) 画像と妖精</image:caption>
+      <image:title>彗星一二型(六三四空／三号爆弾搭載機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon319_2.png</image:loc>
+      <image:caption>彗星一二型(六三四空／三号爆弾搭載機) 妖精</image:caption>
+      <image:title>彗星一二型(六三四空／三号爆弾搭載機) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w320</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon320.png</image:loc>
+      <image:caption>彗星一二型(三一号光電管爆弾搭載機)</image:caption>
+      <image:title>彗星一二型(三一号光電管爆弾搭載機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon320_0.png</image:loc>
+      <image:caption>彗星一二型(三一号光電管爆弾搭載機) 画像</image:caption>
+      <image:title>彗星一二型(三一号光電管爆弾搭載機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon320_1.png</image:loc>
+      <image:caption>彗星一二型(三一号光電管爆弾搭載機) 画像と妖精</image:caption>
+      <image:title>彗星一二型(三一号光電管爆弾搭載機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon320_2.png</image:loc>
+      <image:caption>彗星一二型(三一号光電管爆弾搭載機) 妖精</image:caption>
+      <image:title>彗星一二型(三一号光電管爆弾搭載機) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w322</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon322.png</image:loc>
+      <image:caption>瑞雲改二(六三四空)</image:caption>
+      <image:title>瑞雲改二(六三四空)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon322_0.png</image:loc>
+      <image:caption>瑞雲改二(六三四空) 画像</image:caption>
+      <image:title>瑞雲改二(六三四空) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon322_1.png</image:loc>
+      <image:caption>瑞雲改二(六三四空) 画像と妖精</image:caption>
+      <image:title>瑞雲改二(六三四空) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon322_2.png</image:loc>
+      <image:caption>瑞雲改二(六三四空) 妖精</image:caption>
+      <image:title>瑞雲改二(六三四空) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w323</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon323.png</image:loc>
+      <image:caption>瑞雲改二(六三四空／熟練)</image:caption>
+      <image:title>瑞雲改二(六三四空／熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon323_0.png</image:loc>
+      <image:caption>瑞雲改二(六三四空／熟練) 画像</image:caption>
+      <image:title>瑞雲改二(六三四空／熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon323_1.png</image:loc>
+      <image:caption>瑞雲改二(六三四空／熟練) 画像と妖精</image:caption>
+      <image:title>瑞雲改二(六三四空／熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon323_2.png</image:loc>
+      <image:caption>瑞雲改二(六三四空／熟練) 妖精</image:caption>
+      <image:title>瑞雲改二(六三四空／熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w324</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon324.png</image:loc>
+      <image:caption>オ号観測機改</image:caption>
+      <image:title>オ号観測機改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon324_0.png</image:loc>
+      <image:caption>オ号観測機改 画像</image:caption>
+      <image:title>オ号観測機改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon324_1.png</image:loc>
+      <image:caption>オ号観測機改 画像と妖精</image:caption>
+      <image:title>オ号観測機改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon324_2.png</image:loc>
+      <image:caption>オ号観測機改 妖精</image:caption>
+      <image:title>オ号観測機改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w325</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon325.png</image:loc>
+      <image:caption>オ号観測機改二</image:caption>
+      <image:title>オ号観測機改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon325_0.png</image:loc>
+      <image:caption>オ号観測機改二 画像</image:caption>
+      <image:title>オ号観測機改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon325_1.png</image:loc>
+      <image:caption>オ号観測機改二 画像と妖精</image:caption>
+      <image:title>オ号観測機改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon325_2.png</image:loc>
+      <image:caption>オ号観測機改二 妖精</image:caption>
+      <image:title>オ号観測機改二 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w326</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon326.png</image:loc>
+      <image:caption>S-51J</image:caption>
+      <image:title>S-51J</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon326_0.png</image:loc>
+      <image:caption>S-51J 画像</image:caption>
+      <image:title>S-51J 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon326_1.png</image:loc>
+      <image:caption>S-51J 画像と妖精</image:caption>
+      <image:title>S-51J 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon326_2.png</image:loc>
+      <image:caption>S-51J 妖精</image:caption>
+      <image:title>S-51J 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w327</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon327.png</image:loc>
+      <image:caption>S-51J改</image:caption>
+      <image:title>S-51J改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon327_0.png</image:loc>
+      <image:caption>S-51J改 画像</image:caption>
+      <image:title>S-51J改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon327_1.png</image:loc>
+      <image:caption>S-51J改 画像と妖精</image:caption>
+      <image:title>S-51J改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon327_2.png</image:loc>
+      <image:caption>S-51J改 妖精</image:caption>
+      <image:title>S-51J改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w328</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon328.png</image:loc>
+      <image:caption>35.6cm連装砲改</image:caption>
+      <image:title>35.6cm連装砲改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon328_0.png</image:loc>
+      <image:caption>35.6cm連装砲改 画像</image:caption>
+      <image:title>35.6cm連装砲改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon328_1.png</image:loc>
+      <image:caption>35.6cm連装砲改 画像と妖精</image:caption>
+      <image:title>35.6cm連装砲改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon328_2.png</image:loc>
+      <image:caption>35.6cm連装砲改 妖精</image:caption>
+      <image:title>35.6cm連装砲改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w329</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon329.png</image:loc>
+      <image:caption>35.6cm連装砲改二</image:caption>
+      <image:title>35.6cm連装砲改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon329_0.png</image:loc>
+      <image:caption>35.6cm連装砲改二 画像</image:caption>
+      <image:title>35.6cm連装砲改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon329_1.png</image:loc>
+      <image:caption>35.6cm連装砲改二 画像と妖精</image:caption>
+      <image:title>35.6cm連装砲改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon329_2.png</image:loc>
+      <image:caption>35.6cm連装砲改二 妖精</image:caption>
+      <image:title>35.6cm連装砲改二 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w330</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon330.png</image:loc>
+      <image:caption>16inchMk.I連装砲</image:caption>
+      <image:title>16inchMk.I連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon330_0.png</image:loc>
+      <image:caption>16inchMk.I連装砲 画像</image:caption>
+      <image:title>16inchMk.I連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon330_1.png</image:loc>
+      <image:caption>16inchMk.I連装砲 画像と妖精</image:caption>
+      <image:title>16inchMk.I連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon330_2.png</image:loc>
+      <image:caption>16inchMk.I連装砲 妖精</image:caption>
+      <image:title>16inchMk.I連装砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w331</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon331.png</image:loc>
+      <image:caption>16inchMk.V連装砲</image:caption>
+      <image:title>16inchMk.V連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon331_0.png</image:loc>
+      <image:caption>16inchMk.V連装砲 画像</image:caption>
+      <image:title>16inchMk.V連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon331_1.png</image:loc>
+      <image:caption>16inchMk.V連装砲 画像と妖精</image:caption>
+      <image:title>16inchMk.V連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon331_2.png</image:loc>
+      <image:caption>16inchMk.V連装砲 妖精</image:caption>
+      <image:title>16inchMk.V連装砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w332</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon332.png</image:loc>
+      <image:caption>16inchMk.VIII連装砲改</image:caption>
+      <image:title>16inchMk.VIII連装砲改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon332_0.png</image:loc>
+      <image:caption>16inchMk.VIII連装砲改 画像</image:caption>
+      <image:title>16inchMk.VIII連装砲改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon332_1.png</image:loc>
+      <image:caption>16inchMk.VIII連装砲改 画像と妖精</image:caption>
+      <image:title>16inchMk.VIII連装砲改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon332_2.png</image:loc>
+      <image:caption>16inchMk.VIII連装砲改 妖精</image:caption>
+      <image:title>16inchMk.VIII連装砲改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w333</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon333.png</image:loc>
+      <image:caption>烈風改</image:caption>
+      <image:title>烈風改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon333_0.png</image:loc>
+      <image:caption>烈風改 画像</image:caption>
+      <image:title>烈風改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon333_1.png</image:loc>
+      <image:caption>烈風改 画像と妖精</image:caption>
+      <image:title>烈風改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon333_2.png</image:loc>
+      <image:caption>烈風改 妖精</image:caption>
+      <image:title>烈風改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w334</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon334.png</image:loc>
+      <image:caption>烈風改(三五二空／熟練)</image:caption>
+      <image:title>烈風改(三五二空／熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon334_0.png</image:loc>
+      <image:caption>烈風改(三五二空／熟練) 画像</image:caption>
+      <image:title>烈風改(三五二空／熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon334_1.png</image:loc>
+      <image:caption>烈風改(三五二空／熟練) 画像と妖精</image:caption>
+      <image:title>烈風改(三五二空／熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon334_2.png</image:loc>
+      <image:caption>烈風改(三五二空／熟練) 妖精</image:caption>
+      <image:title>烈風改(三五二空／熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w335</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon335.png</image:loc>
+      <image:caption>烈風改(試製艦載型)</image:caption>
+      <image:title>烈風改(試製艦載型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon335_0.png</image:loc>
+      <image:caption>烈風改(試製艦載型) 画像</image:caption>
+      <image:title>烈風改(試製艦載型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon335_1.png</image:loc>
+      <image:caption>烈風改(試製艦載型) 画像と妖精</image:caption>
+      <image:title>烈風改(試製艦載型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon335_2.png</image:loc>
+      <image:caption>烈風改(試製艦載型) 妖精</image:caption>
+      <image:title>烈風改(試製艦載型) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w336</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon336.png</image:loc>
+      <image:caption>烈風改二</image:caption>
+      <image:title>烈風改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon336_0.png</image:loc>
+      <image:caption>烈風改二 画像</image:caption>
+      <image:title>烈風改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon336_1.png</image:loc>
+      <image:caption>烈風改二 画像と妖精</image:caption>
+      <image:title>烈風改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon336_2.png</image:loc>
+      <image:caption>烈風改二 妖精</image:caption>
+      <image:title>烈風改二 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w338</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon338.png</image:loc>
+      <image:caption>烈風改二戊型</image:caption>
+      <image:title>烈風改二戊型</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon338_0.png</image:loc>
+      <image:caption>烈風改二戊型 画像</image:caption>
+      <image:title>烈風改二戊型 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon338_1.png</image:loc>
+      <image:caption>烈風改二戊型 画像と妖精</image:caption>
+      <image:title>烈風改二戊型 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon338_2.png</image:loc>
+      <image:caption>烈風改二戊型 妖精</image:caption>
+      <image:title>烈風改二戊型 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w339</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon339.png</image:loc>
+      <image:caption>烈風改二戊型(一航戦／熟練)</image:caption>
+      <image:title>烈風改二戊型(一航戦／熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon339_0.png</image:loc>
+      <image:caption>烈風改二戊型(一航戦／熟練) 画像</image:caption>
+      <image:title>烈風改二戊型(一航戦／熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon339_1.png</image:loc>
+      <image:caption>烈風改二戊型(一航戦／熟練) 画像と妖精</image:caption>
+      <image:title>烈風改二戊型(一航戦／熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon339_2.png</image:loc>
+      <image:caption>烈風改二戊型(一航戦／熟練) 妖精</image:caption>
+      <image:title>烈風改二戊型(一航戦／熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w340</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon340.png</image:loc>
+      <image:caption>152mm／55三連装速射砲</image:caption>
+      <image:title>152mm／55三連装速射砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon340_0.png</image:loc>
+      <image:caption>152mm／55三連装速射砲 画像</image:caption>
+      <image:title>152mm／55三連装速射砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon340_1.png</image:loc>
+      <image:caption>152mm／55三連装速射砲 画像と妖精</image:caption>
+      <image:title>152mm／55三連装速射砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon340_2.png</image:loc>
+      <image:caption>152mm／55三連装速射砲 妖精</image:caption>
+      <image:title>152mm／55三連装速射砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w341</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon341.png</image:loc>
+      <image:caption>152mm／55三連装速射砲改</image:caption>
+      <image:title>152mm／55三連装速射砲改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon341_0.png</image:loc>
+      <image:caption>152mm／55三連装速射砲改 画像</image:caption>
+      <image:title>152mm／55三連装速射砲改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon341_1.png</image:loc>
+      <image:caption>152mm／55三連装速射砲改 画像と妖精</image:caption>
+      <image:title>152mm／55三連装速射砲改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon341_2.png</image:loc>
+      <image:caption>152mm／55三連装速射砲改 妖精</image:caption>
+      <image:title>152mm／55三連装速射砲改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w342</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon342.png</image:loc>
+      <image:caption>流星改(一航戦)</image:caption>
+      <image:title>流星改(一航戦)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon342_0.png</image:loc>
+      <image:caption>流星改(一航戦) 画像</image:caption>
+      <image:title>流星改(一航戦) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon342_1.png</image:loc>
+      <image:caption>流星改(一航戦) 画像と妖精</image:caption>
+      <image:title>流星改(一航戦) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon342_2.png</image:loc>
+      <image:caption>流星改(一航戦) 妖精</image:caption>
+      <image:title>流星改(一航戦) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w343</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon343.png</image:loc>
+      <image:caption>流星改(一航戦／熟練)</image:caption>
+      <image:title>流星改(一航戦／熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon343_0.png</image:loc>
+      <image:caption>流星改(一航戦／熟練) 画像</image:caption>
+      <image:title>流星改(一航戦／熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon343_1.png</image:loc>
+      <image:caption>流星改(一航戦／熟練) 画像と妖精</image:caption>
+      <image:title>流星改(一航戦／熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon343_2.png</image:loc>
+      <image:caption>流星改(一航戦／熟練) 妖精</image:caption>
+      <image:title>流星改(一航戦／熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w344</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon344.png</image:loc>
+      <image:caption>九七式艦攻改試製三号戊型(空六号電探改装備機)</image:caption>
+      <image:title>九七式艦攻改試製三号戊型(空六号電探改装備機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon344_0.png</image:loc>
+      <image:caption>九七式艦攻改試製三号戊型(空六号電探改装備機) 画像</image:caption>
+      <image:title>九七式艦攻改試製三号戊型(空六号電探改装備機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon344_1.png</image:loc>
+      <image:caption>九七式艦攻改試製三号戊型(空六号電探改装備機) 画像と妖精</image:caption>
+      <image:title>九七式艦攻改試製三号戊型(空六号電探改装備機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon344_2.png</image:loc>
+      <image:caption>九七式艦攻改試製三号戊型(空六号電探改装備機) 妖精</image:caption>
+      <image:title>九七式艦攻改試製三号戊型(空六号電探改装備機) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w345</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon345.png</image:loc>
+      <image:caption>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機)</image:caption>
+      <image:title>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon345_0.png</image:loc>
+      <image:caption>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機) 画像</image:caption>
+      <image:title>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon345_1.png</image:loc>
+      <image:caption>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機) 画像と妖精</image:caption>
+      <image:title>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon345_2.png</image:loc>
+      <image:caption>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機) 妖精</image:caption>
+      <image:title>九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w346</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon346.png</image:loc>
+      <image:caption>二式12cm迫撃砲改</image:caption>
+      <image:title>二式12cm迫撃砲改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon346_0.png</image:loc>
+      <image:caption>二式12cm迫撃砲改 画像</image:caption>
+      <image:title>二式12cm迫撃砲改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon346_1.png</image:loc>
+      <image:caption>二式12cm迫撃砲改 画像と妖精</image:caption>
+      <image:title>二式12cm迫撃砲改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon346_2.png</image:loc>
+      <image:caption>二式12cm迫撃砲改 妖精</image:caption>
+      <image:title>二式12cm迫撃砲改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w347</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon347.png</image:loc>
+      <image:caption>二式12cm迫撃砲改集中配備</image:caption>
+      <image:title>二式12cm迫撃砲改集中配備</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon347_0.png</image:loc>
+      <image:caption>二式12cm迫撃砲改集中配備 画像</image:caption>
+      <image:title>二式12cm迫撃砲改集中配備 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon347_1.png</image:loc>
+      <image:caption>二式12cm迫撃砲改集中配備 画像と妖精</image:caption>
+      <image:title>二式12cm迫撃砲改集中配備 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon347_2.png</image:loc>
+      <image:caption>二式12cm迫撃砲改集中配備 妖精</image:caption>
+      <image:title>二式12cm迫撃砲改集中配備 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w348</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon348.png</image:loc>
+      <image:caption>艦載型四式20cm対地噴進砲</image:caption>
+      <image:title>艦載型四式20cm対地噴進砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon348_0.png</image:loc>
+      <image:caption>艦載型四式20cm対地噴進砲 画像</image:caption>
+      <image:title>艦載型四式20cm対地噴進砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon348_1.png</image:loc>
+      <image:caption>艦載型四式20cm対地噴進砲 画像と妖精</image:caption>
+      <image:title>艦載型四式20cm対地噴進砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon348_2.png</image:loc>
+      <image:caption>艦載型四式20cm対地噴進砲 妖精</image:caption>
+      <image:title>艦載型四式20cm対地噴進砲 妖精</image:title>
     </image:image>
   </url>
 </urlset>
