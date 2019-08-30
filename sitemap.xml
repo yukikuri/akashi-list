@@ -8250,4 +8250,76 @@
       <image:title>艦載型四式20cm対地噴進砲 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w350</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon350.png</image:loc>
+      <image:caption>Me163B</image:caption>
+      <image:title>Me163B</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon350_0.png</image:loc>
+      <image:caption>Me163B 画像</image:caption>
+      <image:title>Me163B 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon350_1.png</image:loc>
+      <image:caption>Me163B 画像と妖精</image:caption>
+      <image:title>Me163B 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon350_2.png</image:loc>
+      <image:caption>Me163B 妖精</image:caption>
+      <image:title>Me163B 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w351</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon351.png</image:loc>
+      <image:caption>試製秋水</image:caption>
+      <image:title>試製秋水</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon351_0.png</image:loc>
+      <image:caption>試製秋水 画像</image:caption>
+      <image:title>試製秋水 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon351_1.png</image:loc>
+      <image:caption>試製秋水 画像と妖精</image:caption>
+      <image:title>試製秋水 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon351_2.png</image:loc>
+      <image:caption>試製秋水 妖精</image:caption>
+      <image:title>試製秋水 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w352</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon352.png</image:loc>
+      <image:caption>秋水</image:caption>
+      <image:title>秋水</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon352_0.png</image:loc>
+      <image:caption>秋水 画像</image:caption>
+      <image:title>秋水 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon352_1.png</image:loc>
+      <image:caption>秋水 画像と妖精</image:caption>
+      <image:title>秋水 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon352_2.png</image:loc>
+      <image:caption>秋水 妖精</image:caption>
+      <image:title>秋水 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
