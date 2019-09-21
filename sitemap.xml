@@ -8322,4 +8322,76 @@
       <image:title>秋水 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w353</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon353.png</image:loc>
+      <image:caption>Fw190A-5改(熟練)</image:caption>
+      <image:title>Fw190A-5改(熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon353_0.png</image:loc>
+      <image:caption>Fw190A-5改(熟練) 画像</image:caption>
+      <image:title>Fw190A-5改(熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon353_1.png</image:loc>
+      <image:caption>Fw190A-5改(熟練) 画像と妖精</image:caption>
+      <image:title>Fw190A-5改(熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon353_2.png</image:loc>
+      <image:caption>Fw190A-5改(熟練) 妖精</image:caption>
+      <image:title>Fw190A-5改(熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w354</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon354.png</image:loc>
+      <image:caption>Fw190D-9</image:caption>
+      <image:title>Fw190D-9</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon354_0.png</image:loc>
+      <image:caption>Fw190D-9 画像</image:caption>
+      <image:title>Fw190D-9 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon354_1.png</image:loc>
+      <image:caption>Fw190D-9 画像と妖精</image:caption>
+      <image:title>Fw190D-9 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon354_2.png</image:loc>
+      <image:caption>Fw190D-9 妖精</image:caption>
+      <image:title>Fw190D-9 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w355</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon355.png</image:loc>
+      <image:caption>M4A1DD</image:caption>
+      <image:title>M4A1DD</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon355_0.png</image:loc>
+      <image:caption>M4A1DD 画像</image:caption>
+      <image:title>M4A1DD 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon355_1.png</image:loc>
+      <image:caption>M4A1DD 画像と妖精</image:caption>
+      <image:title>M4A1DD 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon355_2.png</image:loc>
+      <image:caption>M4A1DD 妖精</image:caption>
+      <image:title>M4A1DD 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
