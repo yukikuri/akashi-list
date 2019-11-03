@@ -8466,4 +8466,28 @@
       <image:title>8inch三連装砲Mk.9mod.2 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w358</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon358.png</image:loc>
+      <image:caption>5inch単装高角砲群</image:caption>
+      <image:title>5inch単装高角砲群</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon358_0.png</image:loc>
+      <image:caption>5inch単装高角砲群 画像</image:caption>
+      <image:title>5inch単装高角砲群 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon358_1.png</image:loc>
+      <image:caption>5inch単装高角砲群 画像と妖精</image:caption>
+      <image:title>5inch単装高角砲群 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon358_2.png</image:loc>
+      <image:caption>5inch単装高角砲群 妖精</image:caption>
+      <image:title>5inch単装高角砲群 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
