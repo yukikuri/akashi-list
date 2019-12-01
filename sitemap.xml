@@ -8490,4 +8490,28 @@
       <image:title>5inch単装高角砲群 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w359</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon359.png</image:loc>
+      <image:caption>6inch連装速射砲Mk.XXI</image:caption>
+      <image:title>6inch連装速射砲Mk.XXI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon359_0.png</image:loc>
+      <image:caption>6inch連装速射砲Mk.XXI 画像</image:caption>
+      <image:title>6inch連装速射砲Mk.XXI 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon359_1.png</image:loc>
+      <image:caption>6inch連装速射砲Mk.XXI 画像と妖精</image:caption>
+      <image:title>6inch連装速射砲Mk.XXI 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon359_2.png</image:loc>
+      <image:caption>6inch連装速射砲Mk.XXI 妖精</image:caption>
+      <image:title>6inch連装速射砲Mk.XXI 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
