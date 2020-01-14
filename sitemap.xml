@@ -8610,4 +8610,28 @@
       <image:title>GFCSMk.37＋5inch連装両用砲(集中配備) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w364</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon364.png</image:loc>
+      <image:caption>甲標的丁型改(蛟龍改)</image:caption>
+      <image:title>甲標的丁型改(蛟龍改)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon364_0.png</image:loc>
+      <image:caption>甲標的丁型改(蛟龍改) 画像</image:caption>
+      <image:title>甲標的丁型改(蛟龍改) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon364_1.png</image:loc>
+      <image:caption>甲標的丁型改(蛟龍改) 画像と妖精</image:caption>
+      <image:title>甲標的丁型改(蛟龍改) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon364_2.png</image:loc>
+      <image:caption>甲標的丁型改(蛟龍改) 妖精</image:caption>
+      <image:title>甲標的丁型改(蛟龍改) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
