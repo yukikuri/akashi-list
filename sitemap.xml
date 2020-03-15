@@ -8658,4 +8658,28 @@
       <image:title>一式徹甲弾改 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w366</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon366.png</image:loc>
+      <image:caption>12.7cm連装砲D型改三</image:caption>
+      <image:title>12.7cm連装砲D型改三</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon366_0.png</image:loc>
+      <image:caption>12.7cm連装砲D型改三 画像</image:caption>
+      <image:title>12.7cm連装砲D型改三 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon366_1.png</image:loc>
+      <image:caption>12.7cm連装砲D型改三 画像と妖精</image:caption>
+      <image:title>12.7cm連装砲D型改三 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon366_2.png</image:loc>
+      <image:caption>12.7cm連装砲D型改三 妖精</image:caption>
+      <image:title>12.7cm連装砲D型改三 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
