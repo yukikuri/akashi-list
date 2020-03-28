@@ -8682,4 +8682,52 @@
       <image:title>12.7cm連装砲D型改三 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w367</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon367.png</image:loc>
+      <image:caption>Swordfish(水上機型)</image:caption>
+      <image:title>Swordfish(水上機型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon367_0.png</image:loc>
+      <image:caption>Swordfish(水上機型) 画像</image:caption>
+      <image:title>Swordfish(水上機型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon367_1.png</image:loc>
+      <image:caption>Swordfish(水上機型) 画像と妖精</image:caption>
+      <image:title>Swordfish(水上機型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon367_2.png</image:loc>
+      <image:caption>Swordfish(水上機型) 妖精</image:caption>
+      <image:title>Swordfish(水上機型) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w368</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon368.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型)</image:caption>
+      <image:title>SwordfishMk.III改(水上機型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon368_0.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型) 画像</image:caption>
+      <image:title>SwordfishMk.III改(水上機型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon368_1.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型) 画像と妖精</image:caption>
+      <image:title>SwordfishMk.III改(水上機型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon368_2.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型) 妖精</image:caption>
+      <image:title>SwordfishMk.III改(水上機型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
