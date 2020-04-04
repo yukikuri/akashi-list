@@ -8730,4 +8730,76 @@
       <image:title>SwordfishMk.III改(水上機型) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#!w369</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon369.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型/熟練)</image:caption>
+      <image:title>SwordfishMk.III改(水上機型/熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon369_0.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型/熟練) 画像</image:caption>
+      <image:title>SwordfishMk.III改(水上機型/熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon369_1.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型/熟練) 画像と妖精</image:caption>
+      <image:title>SwordfishMk.III改(水上機型/熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon369_2.png</image:loc>
+      <image:caption>SwordfishMk.III改(水上機型/熟練) 妖精</image:caption>
+      <image:title>SwordfishMk.III改(水上機型/熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w370</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon370.png</image:loc>
+      <image:caption>SwordfishMk.II改(水偵型)</image:caption>
+      <image:title>SwordfishMk.II改(水偵型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon370_0.png</image:loc>
+      <image:caption>SwordfishMk.II改(水偵型) 画像</image:caption>
+      <image:title>SwordfishMk.II改(水偵型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon370_1.png</image:loc>
+      <image:caption>SwordfishMk.II改(水偵型) 画像と妖精</image:caption>
+      <image:title>SwordfishMk.II改(水偵型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon370_2.png</image:loc>
+      <image:caption>SwordfishMk.II改(水偵型) 妖精</image:caption>
+      <image:title>SwordfishMk.II改(水偵型) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#!w371</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon371.png</image:loc>
+      <image:caption>FaireySeafox改</image:caption>
+      <image:title>FaireySeafox改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon371_0.png</image:loc>
+      <image:caption>FaireySeafox改 画像</image:caption>
+      <image:title>FaireySeafox改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon371_1.png</image:loc>
+      <image:caption>FaireySeafox改 画像と妖精</image:caption>
+      <image:title>FaireySeafox改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon371_2.png</image:loc>
+      <image:caption>FaireySeafox改 妖精</image:caption>
+      <image:title>FaireySeafox改 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
