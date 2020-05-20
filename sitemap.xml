@@ -8803,6 +8803,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#w372</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon372.png</image:loc>
+      <image:caption>天山一二型甲</image:caption>
+      <image:title>天山一二型甲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon372_0.png</image:loc>
+      <image:caption>天山一二型甲 画像</image:caption>
+      <image:title>天山一二型甲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon372_1.png</image:loc>
+      <image:caption>天山一二型甲 画像と妖精</image:caption>
+      <image:title>天山一二型甲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon372_2.png</image:loc>
+      <image:caption>天山一二型甲 妖精</image:caption>
+      <image:title>天山一二型甲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#w373</loc>
     <priority>0.7</priority>
     <image:image>
