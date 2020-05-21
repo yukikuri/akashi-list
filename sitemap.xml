@@ -8898,4 +8898,76 @@
       <image:title>XF5U 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w376</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon376.png</image:loc>
+      <image:caption>533mm五連装魚雷(後期型)</image:caption>
+      <image:title>533mm五連装魚雷(後期型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon376_0.png</image:loc>
+      <image:caption>533mm五連装魚雷(後期型) 画像</image:caption>
+      <image:title>533mm五連装魚雷(後期型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon376_1.png</image:loc>
+      <image:caption>533mm五連装魚雷(後期型) 画像と妖精</image:caption>
+      <image:title>533mm五連装魚雷(後期型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon376_2.png</image:loc>
+      <image:caption>533mm五連装魚雷(後期型) 妖精</image:caption>
+      <image:title>533mm五連装魚雷(後期型) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w377</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon377.png</image:loc>
+      <image:caption>RUR-4AWeaponAlpha改</image:caption>
+      <image:title>RUR-4AWeaponAlpha改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon377_0.png</image:loc>
+      <image:caption>RUR-4AWeaponAlpha改 画像</image:caption>
+      <image:title>RUR-4AWeaponAlpha改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon377_1.png</image:loc>
+      <image:caption>RUR-4AWeaponAlpha改 画像と妖精</image:caption>
+      <image:title>RUR-4AWeaponAlpha改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon377_2.png</image:loc>
+      <image:caption>RUR-4AWeaponAlpha改 妖精</image:caption>
+      <image:title>RUR-4AWeaponAlpha改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w378</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon378.png</image:loc>
+      <image:caption>対潜短魚雷(試作初期型)</image:caption>
+      <image:title>対潜短魚雷(試作初期型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon378_0.png</image:loc>
+      <image:caption>対潜短魚雷(試作初期型) 画像</image:caption>
+      <image:title>対潜短魚雷(試作初期型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon378_1.png</image:loc>
+      <image:caption>対潜短魚雷(試作初期型) 画像と妖精</image:caption>
+      <image:title>対潜短魚雷(試作初期型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon378_2.png</image:loc>
+      <image:caption>対潜短魚雷(試作初期型) 妖精</image:caption>
+      <image:title>対潜短魚雷(試作初期型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
