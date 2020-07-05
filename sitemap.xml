@@ -9066,4 +9066,28 @@
       <image:title>12cm単装高角砲E型 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w385</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon385.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6mod.2</image:caption>
+      <image:title>16inch三連装砲Mk.6mod.2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon385_0.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6mod.2 画像</image:caption>
+      <image:title>16inch三連装砲Mk.6mod.2 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon385_1.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6mod.2 画像と妖精</image:caption>
+      <image:title>16inch三連装砲Mk.6mod.2 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon385_2.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6mod.2 妖精</image:caption>
+      <image:title>16inch三連装砲Mk.6mod.2 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
