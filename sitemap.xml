@@ -9090,4 +9090,28 @@
       <image:title>16inch三連装砲Mk.6mod.2 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w388</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon388.png</image:loc>
+      <image:caption>銀河(江草隊)</image:caption>
+      <image:title>銀河(江草隊)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon388_0.png</image:loc>
+      <image:caption>銀河(江草隊) 画像</image:caption>
+      <image:title>銀河(江草隊) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon388_1.png</image:loc>
+      <image:caption>銀河(江草隊) 画像と妖精</image:caption>
+      <image:title>銀河(江草隊) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon388_2.png</image:loc>
+      <image:caption>銀河(江草隊) 妖精</image:caption>
+      <image:title>銀河(江草隊) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
