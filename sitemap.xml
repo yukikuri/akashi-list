@@ -9210,4 +9210,28 @@
       <image:title>銀河(江草隊) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w389</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon389.png</image:loc>
+      <image:caption>TBM-3W＋3S</image:caption>
+      <image:title>TBM-3W＋3S</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon389_0.png</image:loc>
+      <image:caption>TBM-3W＋3S 画像</image:caption>
+      <image:title>TBM-3W＋3S 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon389_1.png</image:loc>
+      <image:caption>TBM-3W＋3S 画像と妖精</image:caption>
+      <image:title>TBM-3W＋3S 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon389_2.png</image:loc>
+      <image:caption>TBM-3W＋3S 妖精</image:caption>
+      <image:title>TBM-3W＋3S 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
