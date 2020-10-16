@@ -9234,4 +9234,76 @@
       <image:title>TBM-3W＋3S 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w390</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon390.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6＋GFCS</image:caption>
+      <image:title>16inch三連装砲Mk.6＋GFCS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon390_0.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6＋GFCS 画像</image:caption>
+      <image:title>16inch三連装砲Mk.6＋GFCS 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon390_1.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6＋GFCS 画像と妖精</image:caption>
+      <image:title>16inch三連装砲Mk.6＋GFCS 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon390_2.png</image:loc>
+      <image:caption>16inch三連装砲Mk.6＋GFCS 妖精</image:caption>
+      <image:title>16inch三連装砲Mk.6＋GFCS 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w391</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon391.png</image:loc>
+      <image:caption>九九式艦爆二二型</image:caption>
+      <image:title>九九式艦爆二二型</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon391_0.png</image:loc>
+      <image:caption>九九式艦爆二二型 画像</image:caption>
+      <image:title>九九式艦爆二二型 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon391_1.png</image:loc>
+      <image:caption>九九式艦爆二二型 画像と妖精</image:caption>
+      <image:title>九九式艦爆二二型 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon391_2.png</image:loc>
+      <image:caption>九九式艦爆二二型 妖精</image:caption>
+      <image:title>九九式艦爆二二型 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w392</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon392.png</image:loc>
+      <image:caption>九九式艦爆二二型(熟練)</image:caption>
+      <image:title>九九式艦爆二二型(熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon392_0.png</image:loc>
+      <image:caption>九九式艦爆二二型(熟練) 画像</image:caption>
+      <image:title>九九式艦爆二二型(熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon392_1.png</image:loc>
+      <image:caption>九九式艦爆二二型(熟練) 画像と妖精</image:caption>
+      <image:title>九九式艦爆二二型(熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon392_2.png</image:loc>
+      <image:caption>九九式艦爆二二型(熟練) 妖精</image:caption>
+      <image:title>九九式艦爆二二型(熟練) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
