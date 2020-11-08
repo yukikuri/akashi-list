@@ -3503,23 +3503,23 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon147.png</image:loc>
-      <image:caption>120mm連装砲</image:caption>
-      <image:title>120mm連装砲</image:title>
+      <image:caption>120mm/50連装砲</image:caption>
+      <image:title>120mm/50連装砲</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon147_0.png</image:loc>
-      <image:caption>120mm連装砲 画像</image:caption>
-      <image:title>120mm連装砲 画像</image:title>
+      <image:caption>120mm/50連装砲 画像</image:caption>
+      <image:title>120mm/50連装砲 画像</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon147_1.png</image:loc>
-      <image:caption>120mm連装砲 画像と妖精</image:caption>
-      <image:title>120mm連装砲 画像と妖精</image:title>
+      <image:caption>120mm/50連装砲 画像と妖精</image:caption>
+      <image:title>120mm/50連装砲 画像と妖精</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon147_2.png</image:loc>
-      <image:caption>120mm連装砲 妖精</image:caption>
-      <image:title>120mm連装砲 妖精</image:title>
+      <image:caption>120mm/50連装砲 妖精</image:caption>
+      <image:title>120mm/50連装砲 妖精</image:title>
     </image:image>
   </url>
   <url>
@@ -9304,6 +9304,102 @@
       <image:loc>https://akashi-list.me/img/weapon392_2.png</image:loc>
       <image:caption>九九式艦爆二二型(熟練) 妖精</image:caption>
       <image:title>九九式艦爆二二型(熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w393</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon393.png</image:loc>
+      <image:caption>120mm/50連装砲mod.1936</image:caption>
+      <image:title>120mm/50連装砲mod.1936</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon393_0.png</image:loc>
+      <image:caption>120mm/50連装砲mod.1936 画像</image:caption>
+      <image:title>120mm/50連装砲mod.1936 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon393_1.png</image:loc>
+      <image:caption>120mm/50連装砲mod.1936 画像と妖精</image:caption>
+      <image:title>120mm/50連装砲mod.1936 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon393_2.png</image:loc>
+      <image:caption>120mm/50連装砲mod.1936 妖精</image:caption>
+      <image:title>120mm/50連装砲mod.1936 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w394</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon394.png</image:loc>
+      <image:caption>120mm/50連装砲改A.mod.1937</image:caption>
+      <image:title>120mm/50連装砲改A.mod.1937</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon394_0.png</image:loc>
+      <image:caption>120mm/50連装砲改A.mod.1937 画像</image:caption>
+      <image:title>120mm/50連装砲改A.mod.1937 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon394_1.png</image:loc>
+      <image:caption>120mm/50連装砲改A.mod.1937 画像と妖精</image:caption>
+      <image:title>120mm/50連装砲改A.mod.1937 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon394_2.png</image:loc>
+      <image:caption>120mm/50連装砲改A.mod.1937 妖精</image:caption>
+      <image:title>120mm/50連装砲改A.mod.1937 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w395</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon395.png</image:loc>
+      <image:caption>深山</image:caption>
+      <image:title>深山</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon395_0.png</image:loc>
+      <image:caption>深山 画像</image:caption>
+      <image:title>深山 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon395_1.png</image:loc>
+      <image:caption>深山 画像と妖精</image:caption>
+      <image:title>深山 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon395_2.png</image:loc>
+      <image:caption>深山 妖精</image:caption>
+      <image:title>深山 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w396</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon396.png</image:loc>
+      <image:caption>深山改</image:caption>
+      <image:title>深山改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon396_0.png</image:loc>
+      <image:caption>深山改 画像</image:caption>
+      <image:title>深山改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon396_1.png</image:loc>
+      <image:caption>深山改 画像と妖精</image:caption>
+      <image:title>深山改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon396_2.png</image:loc>
+      <image:caption>深山改 妖精</image:caption>
+      <image:title>深山改 妖精</image:title>
     </image:image>
   </url>
 </urlset>
