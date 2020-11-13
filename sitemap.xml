@@ -9402,4 +9402,52 @@
       <image:title>深山改 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w397</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon397.png</image:loc>
+      <image:caption>現地改装12.7cm連装高角砲</image:caption>
+      <image:title>現地改装12.7cm連装高角砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon397_0.png</image:loc>
+      <image:caption>現地改装12.7cm連装高角砲 画像</image:caption>
+      <image:title>現地改装12.7cm連装高角砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon397_1.png</image:loc>
+      <image:caption>現地改装12.7cm連装高角砲 画像と妖精</image:caption>
+      <image:title>現地改装12.7cm連装高角砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon397_2.png</image:loc>
+      <image:caption>現地改装12.7cm連装高角砲 妖精</image:caption>
+      <image:title>現地改装12.7cm連装高角砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w398</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon398.png</image:loc>
+      <image:caption>現地改装10cm連装高角砲</image:caption>
+      <image:title>現地改装10cm連装高角砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon398_0.png</image:loc>
+      <image:caption>現地改装10cm連装高角砲 画像</image:caption>
+      <image:title>現地改装10cm連装高角砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon398_1.png</image:loc>
+      <image:caption>現地改装10cm連装高角砲 画像と妖精</image:caption>
+      <image:title>現地改装10cm連装高角砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon398_2.png</image:loc>
+      <image:caption>現地改装10cm連装高角砲 妖精</image:caption>
+      <image:title>現地改装10cm連装高角砲 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
