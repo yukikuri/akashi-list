@@ -9450,4 +9450,52 @@
       <image:title>現地改装10cm連装高角砲 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w399</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon399.png</image:loc>
+      <image:caption>6inchMk.XXIII三連装砲</image:caption>
+      <image:title>6inchMk.XXIII三連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon399_0.png</image:loc>
+      <image:caption>6inchMk.XXIII三連装砲 画像</image:caption>
+      <image:title>6inchMk.XXIII三連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon399_1.png</image:loc>
+      <image:caption>6inchMk.XXIII三連装砲 画像と妖精</image:caption>
+      <image:title>6inchMk.XXIII三連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon399_2.png</image:loc>
+      <image:caption>6inchMk.XXIII三連装砲 妖精</image:caption>
+      <image:title>6inchMk.XXIII三連装砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w400</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon400.png</image:loc>
+      <image:caption>533mm三連装魚雷(53-39型)</image:caption>
+      <image:title>533mm三連装魚雷(53-39型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon400_0.png</image:loc>
+      <image:caption>533mm三連装魚雷(53-39型) 画像</image:caption>
+      <image:title>533mm三連装魚雷(53-39型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon400_1.png</image:loc>
+      <image:caption>533mm三連装魚雷(53-39型) 画像と妖精</image:caption>
+      <image:title>533mm三連装魚雷(53-39型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon400_2.png</image:loc>
+      <image:caption>533mm三連装魚雷(53-39型) 妖精</image:caption>
+      <image:title>533mm三連装魚雷(53-39型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
