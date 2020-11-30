@@ -9498,4 +9498,28 @@
       <image:title>533mm三連装魚雷(53-39型) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w402</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon402.png</image:loc>
+      <image:caption>寒冷地装備＆甲板要員</image:caption>
+      <image:title>寒冷地装備＆甲板要員</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon402_0.png</image:loc>
+      <image:caption>寒冷地装備＆甲板要員 画像</image:caption>
+      <image:title>寒冷地装備＆甲板要員 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon402_1.png</image:loc>
+      <image:caption>寒冷地装備＆甲板要員 画像と妖精</image:caption>
+      <image:title>寒冷地装備＆甲板要員 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon402_2.png</image:loc>
+      <image:caption>寒冷地装備＆甲板要員 妖精</image:caption>
+      <image:title>寒冷地装備＆甲板要員 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
