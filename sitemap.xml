@@ -9499,6 +9499,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#w401</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon401.png</image:loc>
+      <image:caption>Do17Z-2</image:caption>
+      <image:title>Do17Z-2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon401_0.png</image:loc>
+      <image:caption>Do17Z-2 画像</image:caption>
+      <image:title>Do17Z-2 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon401_1.png</image:loc>
+      <image:caption>Do17Z-2 画像と妖精</image:caption>
+      <image:title>Do17Z-2 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon401_2.png</image:loc>
+      <image:caption>Do17Z-2 妖精</image:caption>
+      <image:title>Do17Z-2 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#w402</loc>
     <priority>0.7</priority>
     <image:image>
