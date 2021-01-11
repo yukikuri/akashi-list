@@ -9546,4 +9546,52 @@
       <image:title>寒冷地装備＆甲板要員 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w403</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon403.png</image:loc>
+      <image:caption>四式重爆飛龍</image:caption>
+      <image:title>四式重爆飛龍</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon403_0.png</image:loc>
+      <image:caption>四式重爆飛龍 画像</image:caption>
+      <image:title>四式重爆飛龍 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon403_1.png</image:loc>
+      <image:caption>四式重爆飛龍 画像と妖精</image:caption>
+      <image:title>四式重爆飛龍 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon403_2.png</image:loc>
+      <image:caption>四式重爆飛龍 妖精</image:caption>
+      <image:title>四式重爆飛龍 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w404</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon404.png</image:loc>
+      <image:caption>四式重爆飛龍(熟練)</image:caption>
+      <image:title>四式重爆飛龍(熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon404_0.png</image:loc>
+      <image:caption>四式重爆飛龍(熟練) 画像</image:caption>
+      <image:title>四式重爆飛龍(熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon404_1.png</image:loc>
+      <image:caption>四式重爆飛龍(熟練) 画像と妖精</image:caption>
+      <image:title>四式重爆飛龍(熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon404_2.png</image:loc>
+      <image:caption>四式重爆飛龍(熟練) 妖精</image:caption>
+      <image:title>四式重爆飛龍(熟練) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
