@@ -9594,4 +9594,52 @@
       <image:title>四式重爆飛龍(熟練) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w405</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon405.png</image:loc>
+      <image:caption>Do217E-5＋Hs293初期型</image:caption>
+      <image:title>Do217E-5＋Hs293初期型</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon405_0.png</image:loc>
+      <image:caption>Do217E-5＋Hs293初期型 画像</image:caption>
+      <image:title>Do217E-5＋Hs293初期型 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon405_1.png</image:loc>
+      <image:caption>Do217E-5＋Hs293初期型 画像と妖精</image:caption>
+      <image:title>Do217E-5＋Hs293初期型 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon405_2.png</image:loc>
+      <image:caption>Do217E-5＋Hs293初期型 妖精</image:caption>
+      <image:title>Do217E-5＋Hs293初期型 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w406</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon406.png</image:loc>
+      <image:caption>Do217K-2＋Fritz-X</image:caption>
+      <image:title>Do217K-2＋Fritz-X</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon406_0.png</image:loc>
+      <image:caption>Do217K-2＋Fritz-X 画像</image:caption>
+      <image:title>Do217K-2＋Fritz-X 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon406_1.png</image:loc>
+      <image:caption>Do217K-2＋Fritz-X 画像と妖精</image:caption>
+      <image:title>Do217K-2＋Fritz-X 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon406_2.png</image:loc>
+      <image:caption>Do217K-2＋Fritz-X 妖精</image:caption>
+      <image:title>Do217K-2＋Fritz-X 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
