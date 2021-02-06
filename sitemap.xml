@@ -9642,4 +9642,28 @@
       <image:title>Do217K-2＋Fritz-X 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w407</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon407.png</image:loc>
+      <image:caption>15.2cm連装砲改二</image:caption>
+      <image:title>15.2cm連装砲改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon407_0.png</image:loc>
+      <image:caption>15.2cm連装砲改二 画像</image:caption>
+      <image:title>15.2cm連装砲改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon407_1.png</image:loc>
+      <image:caption>15.2cm連装砲改二 画像と妖精</image:caption>
+      <image:title>15.2cm連装砲改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon407_2.png</image:loc>
+      <image:caption>15.2cm連装砲改二 妖精</image:caption>
+      <image:title>15.2cm連装砲改二 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
