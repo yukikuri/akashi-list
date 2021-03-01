@@ -9666,4 +9666,52 @@
       <image:title>15.2cm連装砲改二 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w408</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon408.png</image:loc>
+      <image:caption>装甲艇(AB艇)</image:caption>
+      <image:title>装甲艇(AB艇)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon408_0.png</image:loc>
+      <image:caption>装甲艇(AB艇) 画像</image:caption>
+      <image:title>装甲艇(AB艇) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon408_1.png</image:loc>
+      <image:caption>装甲艇(AB艇) 画像と妖精</image:caption>
+      <image:title>装甲艇(AB艇) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon408_2.png</image:loc>
+      <image:caption>装甲艇(AB艇) 妖精</image:caption>
+      <image:title>装甲艇(AB艇) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w409</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon409.png</image:loc>
+      <image:caption>武装大発</image:caption>
+      <image:title>武装大発</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon409_0.png</image:loc>
+      <image:caption>武装大発 画像</image:caption>
+      <image:title>武装大発 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon409_1.png</image:loc>
+      <image:caption>武装大発 画像と妖精</image:caption>
+      <image:title>武装大発 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon409_2.png</image:loc>
+      <image:caption>武装大発 妖精</image:caption>
+      <image:title>武装大発 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
