@@ -9954,4 +9954,76 @@
       <image:title>SBD-5 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w420</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon420.png</image:loc>
+      <image:caption>SB2C-3</image:caption>
+      <image:title>SB2C-3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon420_0.png</image:loc>
+      <image:caption>SB2C-3 画像</image:caption>
+      <image:title>SB2C-3 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon420_1.png</image:loc>
+      <image:caption>SB2C-3 画像と妖精</image:caption>
+      <image:title>SB2C-3 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon420_2.png</image:loc>
+      <image:caption>SB2C-3 妖精</image:caption>
+      <image:title>SB2C-3 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w421</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon421.png</image:loc>
+      <image:caption>SB2C-5</image:caption>
+      <image:title>SB2C-5</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon421_0.png</image:loc>
+      <image:caption>SB2C-5 画像</image:caption>
+      <image:title>SB2C-5 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon421_1.png</image:loc>
+      <image:caption>SB2C-5 画像と妖精</image:caption>
+      <image:title>SB2C-5 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon421_2.png</image:loc>
+      <image:caption>SB2C-5 妖精</image:caption>
+      <image:title>SB2C-5 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w422</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon422.png</image:loc>
+      <image:caption>FR-1Fireball</image:caption>
+      <image:title>FR-1Fireball</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon422_0.png</image:loc>
+      <image:caption>FR-1Fireball 画像</image:caption>
+      <image:title>FR-1Fireball 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon422_1.png</image:loc>
+      <image:caption>FR-1Fireball 画像と妖精</image:caption>
+      <image:title>FR-1Fireball 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon422_2.png</image:loc>
+      <image:caption>FR-1Fireball 妖精</image:caption>
+      <image:title>FR-1Fireball 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
