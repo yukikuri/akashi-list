@@ -10026,4 +10026,76 @@
       <image:title>FR-1Fireball 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w423</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon423.png</image:loc>
+      <image:caption>Fulmar(戦闘偵察/熟練)</image:caption>
+      <image:title>Fulmar(戦闘偵察/熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon423_0.png</image:loc>
+      <image:caption>Fulmar(戦闘偵察/熟練) 画像</image:caption>
+      <image:title>Fulmar(戦闘偵察/熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon423_1.png</image:loc>
+      <image:caption>Fulmar(戦闘偵察/熟練) 画像と妖精</image:caption>
+      <image:title>Fulmar(戦闘偵察/熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon423_2.png</image:loc>
+      <image:caption>Fulmar(戦闘偵察/熟練) 妖精</image:caption>
+      <image:title>Fulmar(戦闘偵察/熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w424</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon424.png</image:loc>
+      <image:caption>BarracudaMk.II</image:caption>
+      <image:title>BarracudaMk.II</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon424_0.png</image:loc>
+      <image:caption>BarracudaMk.II 画像</image:caption>
+      <image:title>BarracudaMk.II 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon424_1.png</image:loc>
+      <image:caption>BarracudaMk.II 画像と妖精</image:caption>
+      <image:title>BarracudaMk.II 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon424_2.png</image:loc>
+      <image:caption>BarracudaMk.II 妖精</image:caption>
+      <image:title>BarracudaMk.II 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w425</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon425.png</image:loc>
+      <image:caption>BarracudaMk.III</image:caption>
+      <image:title>BarracudaMk.III</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon425_0.png</image:loc>
+      <image:caption>BarracudaMk.III 画像</image:caption>
+      <image:title>BarracudaMk.III 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon425_1.png</image:loc>
+      <image:caption>BarracudaMk.III 画像と妖精</image:caption>
+      <image:title>BarracudaMk.III 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon425_2.png</image:loc>
+      <image:caption>BarracudaMk.III 妖精</image:caption>
+      <image:title>BarracudaMk.III 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
