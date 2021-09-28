@@ -10338,4 +10338,28 @@
       <image:title>試製陣風 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w438</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon438.png</image:loc>
+      <image:caption>三式水中探信儀改</image:caption>
+      <image:title>三式水中探信儀改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon438_0.png</image:loc>
+      <image:caption>三式水中探信儀改 画像</image:caption>
+      <image:title>三式水中探信儀改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon438_1.png</image:loc>
+      <image:caption>三式水中探信儀改 画像と妖精</image:caption>
+      <image:title>三式水中探信儀改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon438_2.png</image:loc>
+      <image:caption>三式水中探信儀改 妖精</image:caption>
+      <image:title>三式水中探信儀改 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
