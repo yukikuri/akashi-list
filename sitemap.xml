@@ -10362,4 +10362,28 @@
       <image:title>三式水中探信儀改 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w439</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon439.png</image:loc>
+      <image:caption>Hedgehog(初期型)</image:caption>
+      <image:title>Hedgehog(初期型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon439_0.png</image:loc>
+      <image:caption>Hedgehog(初期型) 画像</image:caption>
+      <image:title>Hedgehog(初期型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon439_1.png</image:loc>
+      <image:caption>Hedgehog(初期型) 画像と妖精</image:caption>
+      <image:title>Hedgehog(初期型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon439_2.png</image:loc>
+      <image:caption>Hedgehog(初期型) 妖精</image:caption>
+      <image:title>Hedgehog(初期型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
