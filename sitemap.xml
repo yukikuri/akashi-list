@@ -10530,4 +10530,52 @@
       <image:title>二式複戦屠龍丙型 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w447</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon447.png</image:loc>
+      <image:caption>零式艦戦64型(複座KMX搭載機)</image:caption>
+      <image:title>零式艦戦64型(複座KMX搭載機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon447_0.png</image:loc>
+      <image:caption>零式艦戦64型(複座KMX搭載機) 画像</image:caption>
+      <image:title>零式艦戦64型(複座KMX搭載機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon447_1.png</image:loc>
+      <image:caption>零式艦戦64型(複座KMX搭載機) 画像と妖精</image:caption>
+      <image:title>零式艦戦64型(複座KMX搭載機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon447_2.png</image:loc>
+      <image:caption>零式艦戦64型(複座KMX搭載機) 妖精</image:caption>
+      <image:title>零式艦戦64型(複座KMX搭載機) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w449</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon449.png</image:loc>
+      <image:caption>特大発動艇＋一式砲戦車</image:caption>
+      <image:title>特大発動艇＋一式砲戦車</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon449_0.png</image:loc>
+      <image:caption>特大発動艇＋一式砲戦車 画像</image:caption>
+      <image:title>特大発動艇＋一式砲戦車 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon449_1.png</image:loc>
+      <image:caption>特大発動艇＋一式砲戦車 画像と妖精</image:caption>
+      <image:title>特大発動艇＋一式砲戦車 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon449_2.png</image:loc>
+      <image:caption>特大発動艇＋一式砲戦車 妖精</image:caption>
+      <image:title>特大発動艇＋一式砲戦車 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
