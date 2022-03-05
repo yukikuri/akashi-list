@@ -10531,6 +10531,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#w444</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon444.png</image:loc>
+      <image:caption>四式重爆飛龍＋イ号一型甲誘導弾</image:caption>
+      <image:title>四式重爆飛龍＋イ号一型甲誘導弾</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon444_0.png</image:loc>
+      <image:caption>四式重爆飛龍＋イ号一型甲誘導弾 画像</image:caption>
+      <image:title>四式重爆飛龍＋イ号一型甲誘導弾 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon444_1.png</image:loc>
+      <image:caption>四式重爆飛龍＋イ号一型甲誘導弾 画像と妖精</image:caption>
+      <image:title>四式重爆飛龍＋イ号一型甲誘導弾 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon444_2.png</image:loc>
+      <image:caption>四式重爆飛龍＋イ号一型甲誘導弾 妖精</image:caption>
+      <image:title>四式重爆飛龍＋イ号一型甲誘導弾 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#w445</loc>
     <priority>0.7</priority>
     <image:image>
@@ -10624,6 +10648,78 @@
       <image:loc>https://akashi-list.me/img/weapon449_2.png</image:loc>
       <image:caption>特大発動艇＋一式砲戦車 妖精</image:caption>
       <image:title>特大発動艇＋一式砲戦車 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w450</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon450.png</image:loc>
+      <image:caption>13号対空電探改(後期型)</image:caption>
+      <image:title>13号対空電探改(後期型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon450_0.png</image:loc>
+      <image:caption>13号対空電探改(後期型) 画像</image:caption>
+      <image:title>13号対空電探改(後期型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon450_1.png</image:loc>
+      <image:caption>13号対空電探改(後期型) 画像と妖精</image:caption>
+      <image:title>13号対空電探改(後期型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon450_2.png</image:loc>
+      <image:caption>13号対空電探改(後期型) 妖精</image:caption>
+      <image:title>13号対空電探改(後期型) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w451</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon451.png</image:loc>
+      <image:caption>三式指揮連絡機改</image:caption>
+      <image:title>三式指揮連絡機改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon451_0.png</image:loc>
+      <image:caption>三式指揮連絡機改 画像</image:caption>
+      <image:title>三式指揮連絡機改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon451_1.png</image:loc>
+      <image:caption>三式指揮連絡機改 画像と妖精</image:caption>
+      <image:title>三式指揮連絡機改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon451_2.png</image:loc>
+      <image:caption>三式指揮連絡機改 妖精</image:caption>
+      <image:title>三式指揮連絡機改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w452</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon452.png</image:loc>
+      <image:caption>キ96</image:caption>
+      <image:title>キ96</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon452_0.png</image:loc>
+      <image:caption>キ96 画像</image:caption>
+      <image:title>キ96 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon452_1.png</image:loc>
+      <image:caption>キ96 画像と妖精</image:caption>
+      <image:title>キ96 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon452_2.png</image:loc>
+      <image:caption>キ96 妖精</image:caption>
+      <image:title>キ96 妖精</image:title>
     </image:image>
   </url>
 </urlset>
