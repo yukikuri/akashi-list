@@ -10794,4 +10794,28 @@
       <image:title>試製長12.7cm連装砲A型改四 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w456</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon456.png</image:loc>
+      <image:caption>SGレーダー(後期型)</image:caption>
+      <image:title>SGレーダー(後期型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon456_0.png</image:loc>
+      <image:caption>SGレーダー(後期型) 画像</image:caption>
+      <image:title>SGレーダー(後期型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon456_1.png</image:loc>
+      <image:caption>SGレーダー(後期型) 画像と妖精</image:caption>
+      <image:title>SGレーダー(後期型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon456_2.png</image:loc>
+      <image:caption>SGレーダー(後期型) 妖精</image:caption>
+      <image:title>SGレーダー(後期型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
