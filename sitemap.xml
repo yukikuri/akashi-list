@@ -11154,4 +11154,28 @@
       <image:title>Loire130M 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w472</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon472.png</image:loc>
+      <image:caption>Mk.32対潜魚雷(Mk.2落射機)</image:caption>
+      <image:title>Mk.32対潜魚雷(Mk.2落射機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon472_0.png</image:loc>
+      <image:caption>Mk.32対潜魚雷(Mk.2落射機) 画像</image:caption>
+      <image:title>Mk.32対潜魚雷(Mk.2落射機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon472_1.png</image:loc>
+      <image:caption>Mk.32対潜魚雷(Mk.2落射機) 画像と妖精</image:caption>
+      <image:title>Mk.32対潜魚雷(Mk.2落射機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon472_2.png</image:loc>
+      <image:caption>Mk.32対潜魚雷(Mk.2落射機) 妖精</image:caption>
+      <image:title>Mk.32対潜魚雷(Mk.2落射機) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
