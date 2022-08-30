@@ -11178,4 +11178,52 @@
       <image:title>Mk.32対潜魚雷(Mk.2落射機) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w477</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon477.png</image:loc>
+      <image:caption>熟練甲板要員</image:caption>
+      <image:title>熟練甲板要員</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon477_0.png</image:loc>
+      <image:caption>熟練甲板要員 画像</image:caption>
+      <image:title>熟練甲板要員 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon477_1.png</image:loc>
+      <image:caption>熟練甲板要員 画像と妖精</image:caption>
+      <image:title>熟練甲板要員 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon477_2.png</image:loc>
+      <image:caption>熟練甲板要員 妖精</image:caption>
+      <image:title>熟練甲板要員 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w478</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon478.png</image:loc>
+      <image:caption>熟練甲板要員＋航空整備員</image:caption>
+      <image:title>熟練甲板要員＋航空整備員</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon478_0.png</image:loc>
+      <image:caption>熟練甲板要員＋航空整備員 画像</image:caption>
+      <image:title>熟練甲板要員＋航空整備員 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon478_1.png</image:loc>
+      <image:caption>熟練甲板要員＋航空整備員 画像と妖精</image:caption>
+      <image:title>熟練甲板要員＋航空整備員 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon478_2.png</image:loc>
+      <image:caption>熟練甲板要員＋航空整備員 妖精</image:caption>
+      <image:title>熟練甲板要員＋航空整備員 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
