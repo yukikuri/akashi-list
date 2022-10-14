@@ -11179,6 +11179,78 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#w473</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon473.png</image:loc>
+      <image:caption>F4U-2NightCorsair</image:caption>
+      <image:title>F4U-2NightCorsair</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon473_0.png</image:loc>
+      <image:caption>F4U-2NightCorsair 画像</image:caption>
+      <image:title>F4U-2NightCorsair 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon473_1.png</image:loc>
+      <image:caption>F4U-2NightCorsair 画像と妖精</image:caption>
+      <image:title>F4U-2NightCorsair 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon473_2.png</image:loc>
+      <image:caption>F4U-2NightCorsair 妖精</image:caption>
+      <image:title>F4U-2NightCorsair 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w475</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon475.png</image:loc>
+      <image:caption>AU-1</image:caption>
+      <image:title>AU-1</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon475_0.png</image:loc>
+      <image:caption>AU-1 画像</image:caption>
+      <image:title>AU-1 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon475_1.png</image:loc>
+      <image:caption>AU-1 画像と妖精</image:caption>
+      <image:title>AU-1 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon475_2.png</image:loc>
+      <image:caption>AU-1 妖精</image:caption>
+      <image:title>AU-1 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w476</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon476.png</image:loc>
+      <image:caption>F4U-7</image:caption>
+      <image:title>F4U-7</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon476_0.png</image:loc>
+      <image:caption>F4U-7 画像</image:caption>
+      <image:title>F4U-7 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon476_1.png</image:loc>
+      <image:caption>F4U-7 画像と妖精</image:caption>
+      <image:title>F4U-7 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon476_2.png</image:loc>
+      <image:caption>F4U-7 妖精</image:caption>
+      <image:title>F4U-7 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#w477</loc>
     <priority>0.7</priority>
     <image:image>
@@ -11224,6 +11296,126 @@
       <image:loc>https://akashi-list.me/img/weapon478_2.png</image:loc>
       <image:caption>熟練甲板要員＋航空整備員 妖精</image:caption>
       <image:title>熟練甲板要員＋航空整備員 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w479</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon479.png</image:loc>
+      <image:caption>MosquitoFBMk.VI</image:caption>
+      <image:title>MosquitoFBMk.VI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon479_0.png</image:loc>
+      <image:caption>MosquitoFBMk.VI 画像</image:caption>
+      <image:title>MosquitoFBMk.VI 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon479_1.png</image:loc>
+      <image:caption>MosquitoFBMk.VI 画像と妖精</image:caption>
+      <image:title>MosquitoFBMk.VI 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon479_2.png</image:loc>
+      <image:caption>MosquitoFBMk.VI 妖精</image:caption>
+      <image:title>MosquitoFBMk.VI 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w480</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon480.png</image:loc>
+      <image:caption>MosquitoPRMk.IV</image:caption>
+      <image:title>MosquitoPRMk.IV</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon480_0.png</image:loc>
+      <image:caption>MosquitoPRMk.IV 画像</image:caption>
+      <image:title>MosquitoPRMk.IV 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon480_1.png</image:loc>
+      <image:caption>MosquitoPRMk.IV 画像と妖精</image:caption>
+      <image:title>MosquitoPRMk.IV 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon480_2.png</image:loc>
+      <image:caption>MosquitoPRMk.IV 妖精</image:caption>
+      <image:title>MosquitoPRMk.IV 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w481</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon481.png</image:loc>
+      <image:caption>MosquitoTRMk.33</image:caption>
+      <image:title>MosquitoTRMk.33</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon481_0.png</image:loc>
+      <image:caption>MosquitoTRMk.33 画像</image:caption>
+      <image:title>MosquitoTRMk.33 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon481_1.png</image:loc>
+      <image:caption>MosquitoTRMk.33 画像と妖精</image:caption>
+      <image:title>MosquitoTRMk.33 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon481_2.png</image:loc>
+      <image:caption>MosquitoTRMk.33 妖精</image:caption>
+      <image:title>MosquitoTRMk.33 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w482</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon482.png</image:loc>
+      <image:caption>特大発動艇+III号戦車(北アフリカ仕様)</image:caption>
+      <image:title>特大発動艇+III号戦車(北アフリカ仕様)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon482_0.png</image:loc>
+      <image:caption>特大発動艇+III号戦車(北アフリカ仕様) 画像</image:caption>
+      <image:title>特大発動艇+III号戦車(北アフリカ仕様) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon482_1.png</image:loc>
+      <image:caption>特大発動艇+III号戦車(北アフリカ仕様) 画像と妖精</image:caption>
+      <image:title>特大発動艇+III号戦車(北アフリカ仕様) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon482_2.png</image:loc>
+      <image:caption>特大発動艇+III号戦車(北アフリカ仕様) 妖精</image:caption>
+      <image:title>特大発動艇+III号戦車(北アフリカ仕様) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w483</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon483.png</image:loc>
+      <image:caption>三式弾改二</image:caption>
+      <image:title>三式弾改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon483_0.png</image:loc>
+      <image:caption>三式弾改二 画像</image:caption>
+      <image:title>三式弾改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon483_1.png</image:loc>
+      <image:caption>三式弾改二 画像と妖精</image:caption>
+      <image:title>三式弾改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon483_2.png</image:loc>
+      <image:caption>三式弾改二 妖精</image:caption>
+      <image:title>三式弾改二 妖精</image:title>
     </image:image>
   </url>
 </urlset>
