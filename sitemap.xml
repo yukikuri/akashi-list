@@ -11203,6 +11203,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#w474</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon474.png</image:loc>
+      <image:caption>F4U-4</image:caption>
+      <image:title>F4U-4</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon474_0.png</image:loc>
+      <image:caption>F4U-4 画像</image:caption>
+      <image:title>F4U-4 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon474_1.png</image:loc>
+      <image:caption>F4U-4 画像と妖精</image:caption>
+      <image:title>F4U-4 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon474_2.png</image:loc>
+      <image:caption>F4U-4 妖精</image:caption>
+      <image:title>F4U-4 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#w475</loc>
     <priority>0.7</priority>
     <image:image>
