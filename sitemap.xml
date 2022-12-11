@@ -6307,6 +6307,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#w264</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon264.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘701</image:caption>
+      <image:title>紫電改(三四三空)戦闘701</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon264_0.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘701 画像</image:caption>
+      <image:title>紫電改(三四三空)戦闘701 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon264_1.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘701 画像と妖精</image:caption>
+      <image:title>紫電改(三四三空)戦闘701 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon264_2.png</image:loc>
+      <image:caption>紫電改(三四三空)戦闘701 妖精</image:caption>
+      <image:title>紫電改(三四三空)戦闘701 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#w266</loc>
     <priority>0.7</priority>
     <image:image>
