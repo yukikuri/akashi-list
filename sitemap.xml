@@ -11562,4 +11562,28 @@
       <image:title>零式艦戦64型(熟練爆戦) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w488</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon488.png</image:loc>
+      <image:caption>二式爆雷改二</image:caption>
+      <image:title>二式爆雷改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon488_0.png</image:loc>
+      <image:caption>二式爆雷改二 画像</image:caption>
+      <image:title>二式爆雷改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon488_1.png</image:loc>
+      <image:caption>二式爆雷改二 画像と妖精</image:caption>
+      <image:title>二式爆雷改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon488_2.png</image:loc>
+      <image:caption>二式爆雷改二 妖精</image:caption>
+      <image:title>二式爆雷改二 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
