@@ -11586,4 +11586,28 @@
       <image:title>二式爆雷改二 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w489</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon489.png</image:loc>
+      <image:caption>一式戦隼II型改(20戦隊)</image:caption>
+      <image:title>一式戦隼II型改(20戦隊)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon489_0.png</image:loc>
+      <image:caption>一式戦隼II型改(20戦隊) 画像</image:caption>
+      <image:title>一式戦隼II型改(20戦隊) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon489_1.png</image:loc>
+      <image:caption>一式戦隼II型改(20戦隊) 画像と妖精</image:caption>
+      <image:title>一式戦隼II型改(20戦隊) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon489_2.png</image:loc>
+      <image:caption>一式戦隼II型改(20戦隊) 妖精</image:caption>
+      <image:title>一式戦隼II型改(20戦隊) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
