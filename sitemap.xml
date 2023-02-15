@@ -11610,4 +11610,28 @@
       <image:title>一式戦隼II型改(20戦隊) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w490</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon490.png</image:loc>
+      <image:caption>試製夜間瑞雲(攻撃装備)</image:caption>
+      <image:title>試製夜間瑞雲(攻撃装備)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon490_0.png</image:loc>
+      <image:caption>試製夜間瑞雲(攻撃装備) 画像</image:caption>
+      <image:title>試製夜間瑞雲(攻撃装備) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon490_1.png</image:loc>
+      <image:caption>試製夜間瑞雲(攻撃装備) 画像と妖精</image:caption>
+      <image:title>試製夜間瑞雲(攻撃装備) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon490_2.png</image:loc>
+      <image:caption>試製夜間瑞雲(攻撃装備) 妖精</image:caption>
+      <image:title>試製夜間瑞雲(攻撃装備) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
