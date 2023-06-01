@@ -11946,4 +11946,28 @@
       <image:title>35.6cm連装砲改四 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w504</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon504.png</image:loc>
+      <image:caption>銀河(熟練)</image:caption>
+      <image:title>銀河(熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon504_0.png</image:loc>
+      <image:caption>銀河(熟練) 画像</image:caption>
+      <image:title>銀河(熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon504_1.png</image:loc>
+      <image:caption>銀河(熟練) 画像と妖精</image:caption>
+      <image:title>銀河(熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon504_2.png</image:loc>
+      <image:caption>銀河(熟練) 妖精</image:caption>
+      <image:title>銀河(熟練) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
