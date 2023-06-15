@@ -11970,4 +11970,52 @@
       <image:title>銀河(熟練) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w505</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon505.png</image:loc>
+      <image:caption>25mm対空機銃増備</image:caption>
+      <image:title>25mm対空機銃増備</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon505_0.png</image:loc>
+      <image:caption>25mm対空機銃増備 画像</image:caption>
+      <image:title>25mm対空機銃増備 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon505_1.png</image:loc>
+      <image:caption>25mm対空機銃増備 画像と妖精</image:caption>
+      <image:title>25mm対空機銃増備 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon505_2.png</image:loc>
+      <image:caption>25mm対空機銃増備 妖精</image:caption>
+      <image:title>25mm対空機銃増備 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w506</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon506.png</image:loc>
+      <image:caption>電探装備マスト(13号改+22号電探改四)</image:caption>
+      <image:title>電探装備マスト(13号改+22号電探改四)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon506_0.png</image:loc>
+      <image:caption>電探装備マスト(13号改+22号電探改四) 画像</image:caption>
+      <image:title>電探装備マスト(13号改+22号電探改四) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon506_1.png</image:loc>
+      <image:caption>電探装備マスト(13号改+22号電探改四) 画像と妖精</image:caption>
+      <image:title>電探装備マスト(13号改+22号電探改四) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon506_2.png</image:loc>
+      <image:caption>電探装備マスト(13号改+22号電探改四) 妖精</image:caption>
+      <image:title>電探装備マスト(13号改+22号電探改四) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
