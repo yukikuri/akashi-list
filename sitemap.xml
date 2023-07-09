@@ -12018,4 +12018,52 @@
       <image:title>電探装備マスト(13号改+22号電探改四) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w507</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon507.png</image:loc>
+      <image:caption>14inch/45連装砲</image:caption>
+      <image:title>14inch/45連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon507_0.png</image:loc>
+      <image:caption>14inch/45連装砲 画像</image:caption>
+      <image:title>14inch/45連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon507_1.png</image:loc>
+      <image:caption>14inch/45連装砲 画像と妖精</image:caption>
+      <image:title>14inch/45連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon507_2.png</image:loc>
+      <image:caption>14inch/45連装砲 妖精</image:caption>
+      <image:title>14inch/45連装砲 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w508</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon508.png</image:loc>
+      <image:caption>14inch/45三連装砲</image:caption>
+      <image:title>14inch/45三連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon508_0.png</image:loc>
+      <image:caption>14inch/45三連装砲 画像</image:caption>
+      <image:title>14inch/45三連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon508_1.png</image:loc>
+      <image:caption>14inch/45三連装砲 画像と妖精</image:caption>
+      <image:title>14inch/45三連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon508_2.png</image:loc>
+      <image:caption>14inch/45三連装砲 妖精</image:caption>
+      <image:title>14inch/45三連装砲 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
