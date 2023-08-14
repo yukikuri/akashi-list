@@ -12066,4 +12066,28 @@
       <image:title>14inch/45三連装砲 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w509</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon509.png</image:loc>
+      <image:caption>12cm単装高角砲E型改</image:caption>
+      <image:title>12cm単装高角砲E型改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon509_0.png</image:loc>
+      <image:caption>12cm単装高角砲E型改 画像</image:caption>
+      <image:title>12cm単装高角砲E型改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon509_1.png</image:loc>
+      <image:caption>12cm単装高角砲E型改 画像と妖精</image:caption>
+      <image:title>12cm単装高角砲E型改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon509_2.png</image:loc>
+      <image:caption>12cm単装高角砲E型改 妖精</image:caption>
+      <image:title>12cm単装高角砲E型改 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
