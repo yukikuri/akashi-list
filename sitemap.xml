@@ -12258,4 +12258,28 @@
       <image:title>Me262A-1a／R1 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w517</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon517.png</image:loc>
+      <image:caption>逆探(E27)＋22号対水上電探改四(後期調整型)</image:caption>
+      <image:title>逆探(E27)＋22号対水上電探改四(後期調整型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon517_0.png</image:loc>
+      <image:caption>逆探(E27)＋22号対水上電探改四(後期調整型) 画像</image:caption>
+      <image:title>逆探(E27)＋22号対水上電探改四(後期調整型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon517_1.png</image:loc>
+      <image:caption>逆探(E27)＋22号対水上電探改四(後期調整型) 画像と妖精</image:caption>
+      <image:title>逆探(E27)＋22号対水上電探改四(後期調整型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon517_2.png</image:loc>
+      <image:caption>逆探(E27)＋22号対水上電探改四(後期調整型) 妖精</image:caption>
+      <image:title>逆探(E27)＋22号対水上電探改四(後期調整型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
