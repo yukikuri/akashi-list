@@ -12282,4 +12282,28 @@
       <image:title>逆探(E27)＋22号対水上電探改四(後期調整型) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w518</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon518.png</image:loc>
+      <image:caption>14cm連装砲改二</image:caption>
+      <image:title>14cm連装砲改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon518_0.png</image:loc>
+      <image:caption>14cm連装砲改二 画像</image:caption>
+      <image:title>14cm連装砲改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon518_1.png</image:loc>
+      <image:caption>14cm連装砲改二 画像と妖精</image:caption>
+      <image:title>14cm連装砲改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon518_2.png</image:loc>
+      <image:caption>14cm連装砲改二 妖精</image:caption>
+      <image:title>14cm連装砲改二 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
