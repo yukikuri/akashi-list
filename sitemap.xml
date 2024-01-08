@@ -12306,4 +12306,28 @@
       <image:title>14cm連装砲改二 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w519</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon519.png</image:loc>
+      <image:caption>SJレーダー+潜水艦司令塔装備</image:caption>
+      <image:title>SJレーダー+潜水艦司令塔装備</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon519_0.png</image:loc>
+      <image:caption>SJレーダー+潜水艦司令塔装備 画像</image:caption>
+      <image:title>SJレーダー+潜水艦司令塔装備 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon519_1.png</image:loc>
+      <image:caption>SJレーダー+潜水艦司令塔装備 画像と妖精</image:caption>
+      <image:title>SJレーダー+潜水艦司令塔装備 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon519_2.png</image:loc>
+      <image:caption>SJレーダー+潜水艦司令塔装備 妖精</image:caption>
+      <image:title>SJレーダー+潜水艦司令塔装備 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
