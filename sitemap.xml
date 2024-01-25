@@ -12330,4 +12330,28 @@
       <image:title>SJレーダー+潜水艦司令塔装備 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w520</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon520.png</image:loc>
+      <image:caption>試製20.3cm(4号)連装砲</image:caption>
+      <image:title>試製20.3cm(4号)連装砲</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon520_0.png</image:loc>
+      <image:caption>試製20.3cm(4号)連装砲 画像</image:caption>
+      <image:title>試製20.3cm(4号)連装砲 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon520_1.png</image:loc>
+      <image:caption>試製20.3cm(4号)連装砲 画像と妖精</image:caption>
+      <image:title>試製20.3cm(4号)連装砲 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon520_2.png</image:loc>
+      <image:caption>試製20.3cm(4号)連装砲 妖精</image:caption>
+      <image:title>試製20.3cm(4号)連装砲 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
