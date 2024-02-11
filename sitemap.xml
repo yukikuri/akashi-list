@@ -12354,4 +12354,28 @@
       <image:title>試製20.3cm(4号)連装砲 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w521</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon521.png</image:loc>
+      <image:caption>紫雲(熟練)</image:caption>
+      <image:title>紫雲(熟練)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon521_0.png</image:loc>
+      <image:caption>紫雲(熟練) 画像</image:caption>
+      <image:title>紫雲(熟練) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon521_1.png</image:loc>
+      <image:caption>紫雲(熟練) 画像と妖精</image:caption>
+      <image:title>紫雲(熟練) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon521_2.png</image:loc>
+      <image:caption>紫雲(熟練) 妖精</image:caption>
+      <image:title>紫雲(熟練) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
