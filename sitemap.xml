@@ -12402,4 +12402,52 @@
       <image:title>12cm単装高角砲＋25mm機銃増備 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w525</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon525.png</image:loc>
+      <image:caption>特四式内火艇</image:caption>
+      <image:title>特四式内火艇</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon525_0.png</image:loc>
+      <image:caption>特四式内火艇 画像</image:caption>
+      <image:title>特四式内火艇 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon525_1.png</image:loc>
+      <image:caption>特四式内火艇 画像と妖精</image:caption>
+      <image:title>特四式内火艇 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon525_2.png</image:loc>
+      <image:caption>特四式内火艇 妖精</image:caption>
+      <image:title>特四式内火艇 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w526</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon526.png</image:loc>
+      <image:caption>特四式内火艇改</image:caption>
+      <image:title>特四式内火艇改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon526_0.png</image:loc>
+      <image:caption>特四式内火艇改 画像</image:caption>
+      <image:title>特四式内火艇改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon526_1.png</image:loc>
+      <image:caption>特四式内火艇改 画像と妖精</image:caption>
+      <image:title>特四式内火艇改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon526_2.png</image:loc>
+      <image:caption>特四式内火艇改 妖精</image:caption>
+      <image:title>特四式内火艇改 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
