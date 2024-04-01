@@ -12498,4 +12498,52 @@
       <image:title>特四式内火艇改 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w527</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon527.png</image:loc>
+      <image:caption>Type281レーダー</image:caption>
+      <image:title>Type281レーダー</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon527_0.png</image:loc>
+      <image:caption>Type281レーダー 画像</image:caption>
+      <image:title>Type281レーダー 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon527_1.png</image:loc>
+      <image:caption>Type281レーダー 画像と妖精</image:caption>
+      <image:title>Type281レーダー 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon527_2.png</image:loc>
+      <image:caption>Type281レーダー 妖精</image:caption>
+      <image:title>Type281レーダー 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w528</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon528.png</image:loc>
+      <image:caption>Type274射撃管制レーダー</image:caption>
+      <image:title>Type274射撃管制レーダー</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon528_0.png</image:loc>
+      <image:caption>Type274射撃管制レーダー 画像</image:caption>
+      <image:title>Type274射撃管制レーダー 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon528_1.png</image:loc>
+      <image:caption>Type274射撃管制レーダー 画像と妖精</image:caption>
+      <image:title>Type274射撃管制レーダー 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon528_2.png</image:loc>
+      <image:caption>Type274射撃管制レーダー 妖精</image:caption>
+      <image:title>Type274射撃管制レーダー 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
