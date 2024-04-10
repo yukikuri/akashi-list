@@ -12546,4 +12546,28 @@
       <image:title>Type274射撃管制レーダー 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w529</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon529.png</image:loc>
+      <image:caption>12.7cm連装砲C型改三H</image:caption>
+      <image:title>12.7cm連装砲C型改三H</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon529_0.png</image:loc>
+      <image:caption>12.7cm連装砲C型改三H 画像</image:caption>
+      <image:title>12.7cm連装砲C型改三H 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon529_1.png</image:loc>
+      <image:caption>12.7cm連装砲C型改三H 画像と妖精</image:caption>
+      <image:title>12.7cm連装砲C型改三H 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon529_2.png</image:loc>
+      <image:caption>12.7cm連装砲C型改三H 妖精</image:caption>
+      <image:title>12.7cm連装砲C型改三H 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
