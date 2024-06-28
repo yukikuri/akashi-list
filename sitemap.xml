@@ -12594,4 +12594,76 @@
       <image:title>35.6cm連装砲改三丙 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w531</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon531.png</image:loc>
+      <image:caption>艦隊通信アンテナ</image:caption>
+      <image:title>艦隊通信アンテナ</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon531_0.png</image:loc>
+      <image:caption>艦隊通信アンテナ 画像</image:caption>
+      <image:title>艦隊通信アンテナ 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon531_1.png</image:loc>
+      <image:caption>艦隊通信アンテナ 画像と妖精</image:caption>
+      <image:title>艦隊通信アンテナ 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon531_2.png</image:loc>
+      <image:caption>艦隊通信アンテナ 妖精</image:caption>
+      <image:title>艦隊通信アンテナ 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w532</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon532.png</image:loc>
+      <image:caption>通信装置&amp;要員</image:caption>
+      <image:title>通信装置&amp;要員</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon532_0.png</image:loc>
+      <image:caption>通信装置&amp;要員 画像</image:caption>
+      <image:title>通信装置&amp;要員 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon532_1.png</image:loc>
+      <image:caption>通信装置&amp;要員 画像と妖精</image:caption>
+      <image:title>通信装置&amp;要員 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon532_2.png</image:loc>
+      <image:caption>通信装置&amp;要員 妖精</image:caption>
+      <image:title>通信装置&amp;要員 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w533</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon533.png</image:loc>
+      <image:caption>10cm連装高角砲改+高射装置改</image:caption>
+      <image:title>10cm連装高角砲改+高射装置改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon533_0.png</image:loc>
+      <image:caption>10cm連装高角砲改+高射装置改 画像</image:caption>
+      <image:title>10cm連装高角砲改+高射装置改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon533_1.png</image:loc>
+      <image:caption>10cm連装高角砲改+高射装置改 画像と妖精</image:caption>
+      <image:title>10cm連装高角砲改+高射装置改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon533_2.png</image:loc>
+      <image:caption>10cm連装高角砲改+高射装置改 妖精</image:caption>
+      <image:title>10cm連装高角砲改+高射装置改 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
