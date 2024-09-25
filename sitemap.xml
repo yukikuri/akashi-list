@@ -12786,4 +12786,28 @@
       <image:title>Loire130M改(熟練) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w541</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon541.png</image:loc>
+      <image:caption>SBD(YellowWings)</image:caption>
+      <image:title>SBD(YellowWings)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon541_0.png</image:loc>
+      <image:caption>SBD(YellowWings) 画像</image:caption>
+      <image:title>SBD(YellowWings) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon541_1.png</image:loc>
+      <image:caption>SBD(YellowWings) 画像と妖精</image:caption>
+      <image:title>SBD(YellowWings) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon541_2.png</image:loc>
+      <image:caption>SBD(YellowWings) 妖精</image:caption>
+      <image:title>SBD(YellowWings) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
