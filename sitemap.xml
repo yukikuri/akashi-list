@@ -12810,4 +12810,28 @@
       <image:title>SBD(YellowWings) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w542</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon542.png</image:loc>
+      <image:caption>TBD(YellowWings)</image:caption>
+      <image:title>TBD(YellowWings)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon542_0.png</image:loc>
+      <image:caption>TBD(YellowWings) 画像</image:caption>
+      <image:title>TBD(YellowWings) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon542_1.png</image:loc>
+      <image:caption>TBD(YellowWings) 画像と妖精</image:caption>
+      <image:title>TBD(YellowWings) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon542_2.png</image:loc>
+      <image:caption>TBD(YellowWings) 妖精</image:caption>
+      <image:title>TBD(YellowWings) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
