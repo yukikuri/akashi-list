@@ -12834,4 +12834,52 @@
       <image:title>TBD(YellowWings) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w543</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon543.png</image:loc>
+      <image:caption>SBDVS-2(偵察飛行隊)</image:caption>
+      <image:title>SBDVS-2(偵察飛行隊)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon543_0.png</image:loc>
+      <image:caption>SBDVS-2(偵察飛行隊) 画像</image:caption>
+      <image:title>SBDVS-2(偵察飛行隊) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon543_1.png</image:loc>
+      <image:caption>SBDVS-2(偵察飛行隊) 画像と妖精</image:caption>
+      <image:title>SBDVS-2(偵察飛行隊) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon543_2.png</image:loc>
+      <image:caption>SBDVS-2(偵察飛行隊) 妖精</image:caption>
+      <image:title>SBDVS-2(偵察飛行隊) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w544</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon544.png</image:loc>
+      <image:caption>SBDVB-2(爆撃飛行隊)</image:caption>
+      <image:title>SBDVB-2(爆撃飛行隊)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon544_0.png</image:loc>
+      <image:caption>SBDVB-2(爆撃飛行隊) 画像</image:caption>
+      <image:title>SBDVB-2(爆撃飛行隊) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon544_1.png</image:loc>
+      <image:caption>SBDVB-2(爆撃飛行隊) 画像と妖精</image:caption>
+      <image:title>SBDVB-2(爆撃飛行隊) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon544_2.png</image:loc>
+      <image:caption>SBDVB-2(爆撃飛行隊) 妖精</image:caption>
+      <image:title>SBDVB-2(爆撃飛行隊) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
