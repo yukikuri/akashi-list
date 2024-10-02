@@ -12954,4 +12954,28 @@
       <image:title>天山一二型甲改二(村田隊/電探装備) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w546</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon546.png</image:loc>
+      <image:caption>試製震電(局地戦闘機)</image:caption>
+      <image:title>試製震電(局地戦闘機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon546_0.png</image:loc>
+      <image:caption>試製震電(局地戦闘機) 画像</image:caption>
+      <image:title>試製震電(局地戦闘機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon546_1.png</image:loc>
+      <image:caption>試製震電(局地戦闘機) 画像と妖精</image:caption>
+      <image:title>試製震電(局地戦闘機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon546_2.png</image:loc>
+      <image:caption>試製震電(局地戦闘機) 妖精</image:caption>
+      <image:title>試製震電(局地戦闘機) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
