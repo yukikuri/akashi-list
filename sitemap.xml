@@ -12978,4 +12978,28 @@
       <image:title>試製震電(局地戦闘機) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w549</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon549.png</image:loc>
+      <image:caption>三式指揮連絡機改二</image:caption>
+      <image:title>三式指揮連絡機改二</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon549_0.png</image:loc>
+      <image:caption>三式指揮連絡機改二 画像</image:caption>
+      <image:title>三式指揮連絡機改二 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon549_1.png</image:loc>
+      <image:caption>三式指揮連絡機改二 画像と妖精</image:caption>
+      <image:title>三式指揮連絡機改二 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon549_2.png</image:loc>
+      <image:caption>三式指揮連絡機改二 妖精</image:caption>
+      <image:title>三式指揮連絡機改二 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
