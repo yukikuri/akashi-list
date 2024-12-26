@@ -13026,4 +13026,76 @@
       <image:title>三式指揮連絡機改二 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w550</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon550.png</image:loc>
+      <image:caption>試製明星(増加試作機)</image:caption>
+      <image:title>試製明星(増加試作機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon550_0.png</image:loc>
+      <image:caption>試製明星(増加試作機) 画像</image:caption>
+      <image:title>試製明星(増加試作機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon550_1.png</image:loc>
+      <image:caption>試製明星(増加試作機) 画像と妖精</image:caption>
+      <image:title>試製明星(増加試作機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon550_2.png</image:loc>
+      <image:caption>試製明星(増加試作機) 妖精</image:caption>
+      <image:title>試製明星(増加試作機) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w551</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon551.png</image:loc>
+      <image:caption>明星改</image:caption>
+      <image:title>明星改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon551_0.png</image:loc>
+      <image:caption>明星改 画像</image:caption>
+      <image:title>明星改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon551_1.png</image:loc>
+      <image:caption>明星改 画像と妖精</image:caption>
+      <image:title>明星改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon551_2.png</image:loc>
+      <image:caption>明星改 妖精</image:caption>
+      <image:title>明星改 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w552</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon552.png</image:loc>
+      <image:caption>九九式練爆二二型改(夜間装備実験機)</image:caption>
+      <image:title>九九式練爆二二型改(夜間装備実験機)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon552_0.png</image:loc>
+      <image:caption>九九式練爆二二型改(夜間装備実験機) 画像</image:caption>
+      <image:title>九九式練爆二二型改(夜間装備実験機) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon552_1.png</image:loc>
+      <image:caption>九九式練爆二二型改(夜間装備実験機) 画像と妖精</image:caption>
+      <image:title>九九式練爆二二型改(夜間装備実験機) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon552_2.png</image:loc>
+      <image:caption>九九式練爆二二型改(夜間装備実験機) 妖精</image:caption>
+      <image:title>九九式練爆二二型改(夜間装備実験機) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
