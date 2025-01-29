@@ -13098,4 +13098,28 @@
       <image:title>九九式練爆二二型改(夜間装備実験機) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w553</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon553.png</image:loc>
+      <image:caption>10cm連装高角砲改</image:caption>
+      <image:title>10cm連装高角砲改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon553_0.png</image:loc>
+      <image:caption>10cm連装高角砲改 画像</image:caption>
+      <image:title>10cm連装高角砲改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon553_1.png</image:loc>
+      <image:caption>10cm連装高角砲改 画像と妖精</image:caption>
+      <image:title>10cm連装高角砲改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon553_2.png</image:loc>
+      <image:caption>10cm連装高角砲改 妖精</image:caption>
+      <image:title>10cm連装高角砲改 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
