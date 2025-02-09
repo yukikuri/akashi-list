@@ -13122,4 +13122,28 @@
       <image:title>10cm連装高角砲改 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w554</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon554.png</image:loc>
+      <image:caption>九七式艦攻改(北東海軍航空隊)</image:caption>
+      <image:title>九七式艦攻改(北東海軍航空隊)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon554_0.png</image:loc>
+      <image:caption>九七式艦攻改(北東海軍航空隊) 画像</image:caption>
+      <image:title>九七式艦攻改(北東海軍航空隊) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon554_1.png</image:loc>
+      <image:caption>九七式艦攻改(北東海軍航空隊) 画像と妖精</image:caption>
+      <image:title>九七式艦攻改(北東海軍航空隊) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon554_2.png</image:loc>
+      <image:caption>九七式艦攻改(北東海軍航空隊) 妖精</image:caption>
+      <image:title>九七式艦攻改(北東海軍航空隊) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
