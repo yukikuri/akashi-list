@@ -13242,4 +13242,52 @@
       <image:title>零式艦戦62型改(熟練/夜間爆戦) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w559</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon559.png</image:loc>
+      <image:caption>Ju87D-4(Fliegerass)</image:caption>
+      <image:title>Ju87D-4(Fliegerass)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon559_0.png</image:loc>
+      <image:caption>Ju87D-4(Fliegerass) 画像</image:caption>
+      <image:title>Ju87D-4(Fliegerass) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon559_1.png</image:loc>
+      <image:caption>Ju87D-4(Fliegerass) 画像と妖精</image:caption>
+      <image:title>Ju87D-4(Fliegerass) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon559_2.png</image:loc>
+      <image:caption>Ju87D-4(Fliegerass) 妖精</image:caption>
+      <image:title>Ju87D-4(Fliegerass) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w560</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon560.png</image:loc>
+      <image:caption>Bf109T-3(G)</image:caption>
+      <image:title>Bf109T-3(G)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon560_0.png</image:loc>
+      <image:caption>Bf109T-3(G) 画像</image:caption>
+      <image:title>Bf109T-3(G) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon560_1.png</image:loc>
+      <image:caption>Bf109T-3(G) 画像と妖精</image:caption>
+      <image:title>Bf109T-3(G) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon560_2.png</image:loc>
+      <image:caption>Bf109T-3(G) 妖精</image:caption>
+      <image:title>Bf109T-3(G) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
