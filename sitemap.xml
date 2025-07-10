@@ -13290,4 +13290,28 @@
       <image:title>Bf109T-3(G) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w561</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon561.png</image:loc>
+      <image:caption>Ho229</image:caption>
+      <image:title>Ho229</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon561_0.png</image:loc>
+      <image:caption>Ho229 画像</image:caption>
+      <image:title>Ho229 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon561_1.png</image:loc>
+      <image:caption>Ho229 画像と妖精</image:caption>
+      <image:title>Ho229 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon561_2.png</image:loc>
+      <image:caption>Ho229 妖精</image:caption>
+      <image:title>Ho229 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
