@@ -13003,6 +13003,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://akashi-list.me/#w547</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon547.png</image:loc>
+      <image:caption>震電改二(艦戦型改二)</image:caption>
+      <image:title>震電改二(艦戦型改二)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon547_0.png</image:loc>
+      <image:caption>震電改二(艦戦型改二) 画像</image:caption>
+      <image:title>震電改二(艦戦型改二) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon547_1.png</image:loc>
+      <image:caption>震電改二(艦戦型改二) 画像と妖精</image:caption>
+      <image:title>震電改二(艦戦型改二) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon547_2.png</image:loc>
+      <image:caption>震電改二(艦戦型改二) 妖精</image:caption>
+      <image:title>震電改二(艦戦型改二) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://akashi-list.me/#w549</loc>
     <priority>0.7</priority>
     <image:image>
@@ -13456,6 +13480,30 @@
       <image:loc>https://akashi-list.me/img/weapon568_2.png</image:loc>
       <image:caption>強風改二(熟練) 妖精</image:caption>
       <image:title>強風改二(熟練) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w569</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon569.png</image:loc>
+      <image:caption>三式爆雷投射機改</image:caption>
+      <image:title>三式爆雷投射機改</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon569_0.png</image:loc>
+      <image:caption>三式爆雷投射機改 画像</image:caption>
+      <image:title>三式爆雷投射機改 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon569_1.png</image:loc>
+      <image:caption>三式爆雷投射機改 画像と妖精</image:caption>
+      <image:title>三式爆雷投射機改 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon569_2.png</image:loc>
+      <image:caption>三式爆雷投射機改 妖精</image:caption>
+      <image:title>三式爆雷投射機改 妖精</image:title>
     </image:image>
   </url>
 </urlset>
