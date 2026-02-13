@@ -13487,23 +13487,47 @@
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon569.png</image:loc>
-      <image:caption>三式爆雷投射機改</image:caption>
-      <image:title>三式爆雷投射機改</image:title>
+      <image:caption/>
+      <image:title/>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon569_0.png</image:loc>
-      <image:caption>三式爆雷投射機改 画像</image:caption>
-      <image:title>三式爆雷投射機改 画像</image:title>
+      <image:caption>undefined 画像</image:caption>
+      <image:title>undefined 画像</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon569_1.png</image:loc>
-      <image:caption>三式爆雷投射機改 画像と妖精</image:caption>
-      <image:title>三式爆雷投射機改 画像と妖精</image:title>
+      <image:caption>undefined 画像と妖精</image:caption>
+      <image:title>undefined 画像と妖精</image:title>
     </image:image>
     <image:image>
       <image:loc>https://akashi-list.me/img/weapon569_2.png</image:loc>
-      <image:caption>三式爆雷投射機改 妖精</image:caption>
-      <image:title>三式爆雷投射機改 妖精</image:title>
+      <image:caption>undefined 妖精</image:caption>
+      <image:title>undefined 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w570</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon570.png</image:loc>
+      <image:caption>流星改(友永隊)</image:caption>
+      <image:title>流星改(友永隊)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon570_0.png</image:loc>
+      <image:caption>流星改(友永隊) 画像</image:caption>
+      <image:title>流星改(友永隊) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon570_1.png</image:loc>
+      <image:caption>流星改(友永隊) 画像と妖精</image:caption>
+      <image:title>流星改(友永隊) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon570_2.png</image:loc>
+      <image:caption>流星改(友永隊) 妖精</image:caption>
+      <image:title>流星改(友永隊) 妖精</image:title>
     </image:image>
   </url>
 </urlset>
