@@ -13578,4 +13578,76 @@
       <image:title>53cm連装魚雷改(酸素魚雷) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w572</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon572.png</image:loc>
+      <image:caption>12.7cm単装高角砲改三</image:caption>
+      <image:title>12.7cm単装高角砲改三</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon572_0.png</image:loc>
+      <image:caption>12.7cm単装高角砲改三 画像</image:caption>
+      <image:title>12.7cm単装高角砲改三 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon572_1.png</image:loc>
+      <image:caption>12.7cm単装高角砲改三 画像と妖精</image:caption>
+      <image:title>12.7cm単装高角砲改三 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon572_2.png</image:loc>
+      <image:caption>12.7cm単装高角砲改三 妖精</image:caption>
+      <image:title>12.7cm単装高角砲改三 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w573</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon573.png</image:loc>
+      <image:caption>試製23号電探改三</image:caption>
+      <image:title>試製23号電探改三</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon573_0.png</image:loc>
+      <image:caption>試製23号電探改三 画像</image:caption>
+      <image:title>試製23号電探改三 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon573_1.png</image:loc>
+      <image:caption>試製23号電探改三 画像と妖精</image:caption>
+      <image:title>試製23号電探改三 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon573_2.png</image:loc>
+      <image:caption>試製23号電探改三 妖精</image:caption>
+      <image:title>試製23号電探改三 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w574</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon574.png</image:loc>
+      <image:caption>SCレーダー改(後期調整型)</image:caption>
+      <image:title>SCレーダー改(後期調整型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon574_0.png</image:loc>
+      <image:caption>SCレーダー改(後期調整型) 画像</image:caption>
+      <image:title>SCレーダー改(後期調整型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon574_1.png</image:loc>
+      <image:caption>SCレーダー改(後期調整型) 画像と妖精</image:caption>
+      <image:title>SCレーダー改(後期調整型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon574_2.png</image:loc>
+      <image:caption>SCレーダー改(後期調整型) 妖精</image:caption>
+      <image:title>SCレーダー改(後期調整型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
