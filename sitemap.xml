@@ -13674,4 +13674,28 @@
       <image:title>25mm連装機銃(熟練機銃員分隊) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w576</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon576.png</image:loc>
+      <image:caption>大発動艇(R35＆フランス兵)</image:caption>
+      <image:title>大発動艇(R35＆フランス兵)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon576_0.png</image:loc>
+      <image:caption>大発動艇(R35＆フランス兵) 画像</image:caption>
+      <image:title>大発動艇(R35＆フランス兵) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon576_1.png</image:loc>
+      <image:caption>大発動艇(R35＆フランス兵) 画像と妖精</image:caption>
+      <image:title>大発動艇(R35＆フランス兵) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon576_2.png</image:loc>
+      <image:caption>大発動艇(R35＆フランス兵) 妖精</image:caption>
+      <image:title>大発動艇(R35＆フランス兵) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
