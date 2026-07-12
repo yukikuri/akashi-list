@@ -13698,4 +13698,52 @@
       <image:title>大発動艇(R35＆フランス兵) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w577</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon577.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷五型改三</image:caption>
+      <image:title>61cm四連装(酸素)魚雷五型改三</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon577_0.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷五型改三 画像</image:caption>
+      <image:title>61cm四連装(酸素)魚雷五型改三 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon577_1.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷五型改三 画像と妖精</image:caption>
+      <image:title>61cm四連装(酸素)魚雷五型改三 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon577_2.png</image:loc>
+      <image:caption>61cm四連装(酸素)魚雷五型改三 妖精</image:caption>
+      <image:title>61cm四連装(酸素)魚雷五型改三 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w578</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon578.png</image:loc>
+      <image:caption>SB2U-2</image:caption>
+      <image:title>SB2U-2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon578_0.png</image:loc>
+      <image:caption>SB2U-2 画像</image:caption>
+      <image:title>SB2U-2 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon578_1.png</image:loc>
+      <image:caption>SB2U-2 画像と妖精</image:caption>
+      <image:title>SB2U-2 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon578_2.png</image:loc>
+      <image:caption>SB2U-2 妖精</image:caption>
+      <image:title>SB2U-2 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
