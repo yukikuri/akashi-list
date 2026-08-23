@@ -13746,4 +13746,52 @@
       <image:title>SB2U-2 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w579</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon579.png</image:loc>
+      <image:caption>13.8cm単装砲Modèle1927</image:caption>
+      <image:title>13.8cm単装砲Modèle1927</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon579_0.png</image:loc>
+      <image:caption>13.8cm単装砲Modèle1927 画像</image:caption>
+      <image:title>13.8cm単装砲Modèle1927 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon579_1.png</image:loc>
+      <image:caption>13.8cm単装砲Modèle1927 画像と妖精</image:caption>
+      <image:title>13.8cm単装砲Modèle1927 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon579_2.png</image:loc>
+      <image:caption>13.8cm単装砲Modèle1927 妖精</image:caption>
+      <image:title>13.8cm単装砲Modèle1927 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w580</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon580.png</image:loc>
+      <image:caption>55cm三連装魚雷Modèle1924</image:caption>
+      <image:title>55cm三連装魚雷Modèle1924</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon580_0.png</image:loc>
+      <image:caption>55cm三連装魚雷Modèle1924 画像</image:caption>
+      <image:title>55cm三連装魚雷Modèle1924 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon580_1.png</image:loc>
+      <image:caption>55cm三連装魚雷Modèle1924 画像と妖精</image:caption>
+      <image:title>55cm三連装魚雷Modèle1924 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon580_2.png</image:loc>
+      <image:caption>55cm三連装魚雷Modèle1924 妖精</image:caption>
+      <image:title>55cm三連装魚雷Modèle1924 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
