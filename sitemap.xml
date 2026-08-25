@@ -13866,4 +13866,76 @@
       <image:title>Bofors12cm単装両用砲 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w585</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon585.png</image:loc>
+      <image:caption>PL101(偵察)</image:caption>
+      <image:title>PL101(偵察)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon585_0.png</image:loc>
+      <image:caption>PL101(偵察) 画像</image:caption>
+      <image:title>PL101(偵察) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon585_1.png</image:loc>
+      <image:caption>PL101(偵察) 画像と妖精</image:caption>
+      <image:title>PL101(偵察) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon585_2.png</image:loc>
+      <image:caption>PL101(偵察) 妖精</image:caption>
+      <image:title>PL101(偵察) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w586</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon586.png</image:loc>
+      <image:caption>PL101(爆装)</image:caption>
+      <image:title>PL101(爆装)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon586_0.png</image:loc>
+      <image:caption>PL101(爆装) 画像</image:caption>
+      <image:title>PL101(爆装) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon586_1.png</image:loc>
+      <image:caption>PL101(爆装) 画像と妖精</image:caption>
+      <image:title>PL101(爆装) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon586_2.png</image:loc>
+      <image:caption>PL101(爆装) 妖精</image:caption>
+      <image:title>PL101(爆装) 妖精</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://akashi-list.me/#w587</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon587.png</image:loc>
+      <image:caption>V-156F(SB2U輸出型)</image:caption>
+      <image:title>V-156F(SB2U輸出型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon587_0.png</image:loc>
+      <image:caption>V-156F(SB2U輸出型) 画像</image:caption>
+      <image:title>V-156F(SB2U輸出型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon587_1.png</image:loc>
+      <image:caption>V-156F(SB2U輸出型) 画像と妖精</image:caption>
+      <image:title>V-156F(SB2U輸出型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon587_2.png</image:loc>
+      <image:caption>V-156F(SB2U輸出型) 妖精</image:caption>
+      <image:title>V-156F(SB2U輸出型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
