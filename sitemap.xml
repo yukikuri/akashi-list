@@ -13938,4 +13938,28 @@
       <image:title>V-156F(SB2U輸出型) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w588</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon588.png</image:loc>
+      <image:caption>G-36A(F4F輸出型)</image:caption>
+      <image:title>G-36A(F4F輸出型)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon588_0.png</image:loc>
+      <image:caption>G-36A(F4F輸出型) 画像</image:caption>
+      <image:title>G-36A(F4F輸出型) 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon588_1.png</image:loc>
+      <image:caption>G-36A(F4F輸出型) 画像と妖精</image:caption>
+      <image:title>G-36A(F4F輸出型) 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon588_2.png</image:loc>
+      <image:caption>G-36A(F4F輸出型) 妖精</image:caption>
+      <image:title>G-36A(F4F輸出型) 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
