@@ -1,0 +1,15 @@
+<!doctype html><html lang=ja><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>ネジ/釘フィルタの使い方</title><style>body{margin:0 auto;padding:24px;padding-top:0;padding-bottom:12px;max-width:800px;font-family:sans-serif;line-height:1.8;font-size:14px;color:#333}h2{font-size:1.2em;margin-bottom:0}h3{font-size:1.1em;margin-bottom:0}p{margin-top:0;line-height:1.2em}h3{margin-top:0}li{margin-bottom:.5em}main img{max-width:100%;min-width:600px;height:auto;display:block}</style></head><body><main><p><img src=https://aiacdn.contents-stg.site/img/filterimg.png alt=ネジ数・釘数フィルタの画面></p><h2 id=ネジ釘フィルタの使い方>ネジ/釘フィルタの使い方</h2><p>改修に必要なネジ数・釘数で、装備の一覧を絞り込めます。
+画面右下のネジのアイコンを押すと、画面下部にフィルタが表示されます。
+もう一度押して閉じると、ネジ数・釘数による絞り込みが解除されます。</p><h3 id=ネジ数フィルタ左側>ネジ数フィルタ（左側）</h3><p>数値の目盛りをクリックして、下限（min）と上限（max）を指定します。
+選択した範囲の両端を含むネジ数の装備を表示します。上限の「∞」は上限なしです。</p><p>例えば下限を0、上限を3にすると、ネジ数が0～3の装備が対象になります。
+下限0・上限∞にすると、ネジ数の範囲指定を解除できます。</p><h3 id=釘数フィルタ右側>釘数フィルタ（右側）</h3><p>下限・上限の選択欄から数値を選び、ネジ数条件との組み合わせを指定します。</p><ul><li><strong>OFF</strong>：釘数では絞り込みません。ネジ数条件だけを使います。</li><li><strong>OR</strong>：ネジ数条件、釘数条件のどちらかを満たす装備を表示します。</li><li><strong>AND</strong>：ネジ数条件と釘数条件の両方を満たす装備を表示します。</li></ul><p>ネジ数が下限0・上限∞の場合、OR・ANDのどちらでも釘数条件だけで絞り込みます。
+曜日や装備種別など、ほかの絞り込み条件は引き続き適用されます。</p><h3 id=下限上限の指定例>下限・上限の指定例</h3><ul><li><strong>下限0・上限5</strong>：釘数0～5が対象です。</li><li><strong>下限3・上限3</strong>：釘数3だけが対象です。</li><li><strong>下限0・上限0</strong>：釘数0だけが対象です。</li><li><strong>下限3・上限「無制限」</strong>：釘数3以上が対象です。</li><li><strong>下限「無制限」</strong>：下限0と同じ扱いです。</li></ul><p><strong>下限が上限を超えた場合は、上限を使わず下限だけで絞り込みます。</strong>
+例えば下限3・上限1なら、釘数3以上が対象です。このとき上限欄は赤枠になります。</p><h3 id=判定に使う数値と装備カードの表示>判定に使う数値と、装備カードの表示</h3><p>釘数の判定には、★0～5の通常改修で必要な釘数を使います。
+複数の改修表がある装備は、その中で最も少ない値を使います。
+ネジ数は、更新を除く改修段階の通常改修で必要な数の最小値で判定します。
+確実化した場合の消費数は、フィルタの判定に含みません。</p><p>装備カードの数値は「★0～5 / ★6～9 / 更新」の順です。
+更新がない場合やデータがない箇所は「-」、複数の値がある場合は「or」で表示します。
+画面右側の「釘表示」ボタンで、ネジ数の上に表示する釘数をON／OFFに切り替えられます。初期設定はOFFです。
+フィルタを開いてORまたはANDを選んでいる間は、手動設定に関係なく釘数を表示し、ボタンもONになります。
+この間は表示をOFFにできません。フィルタを閉じるか条件をOFFにすると、元の手動設定に戻ります。</p><h3 id=設定の保存>設定の保存</h3><p>フィルタ条件はブラウザに保存され、次回フィルタを開いたとき保存されている設定が反映されます。
+OFFにしても釘数の下限・上限の設定は保持されます。釘表示ボタンの手動設定も保存されます。</p></main></body></html>
