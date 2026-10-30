@@ -13986,4 +13986,28 @@
       <image:title>G-36A(F4F輸出型) 妖精</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://akashi-list.me/#w589</loc>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon589.png</image:loc>
+      <image:caption>XF6F-6</image:caption>
+      <image:title>XF6F-6</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon589_0.png</image:loc>
+      <image:caption>XF6F-6 画像</image:caption>
+      <image:title>XF6F-6 画像</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon589_1.png</image:loc>
+      <image:caption>XF6F-6 画像と妖精</image:caption>
+      <image:title>XF6F-6 画像と妖精</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://akashi-list.me/img/weapon589_2.png</image:loc>
+      <image:caption>XF6F-6 妖精</image:caption>
+      <image:title>XF6F-6 妖精</image:title>
+    </image:image>
+  </url>
 </urlset>
